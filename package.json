@@ -1,0 +1,10 @@
+{
+  "name": "health-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Private health and medication trend dashboard",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "deploy:check": "python3 scripts/check_files.py"
+  }
+}

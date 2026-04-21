@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>부관 | 건강·약 트렌드 대시보드</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">부관 private dashboard</p>
+        <h1>건강·약 트렌드 대시보드</h1>
+        <p class="subtext">대장님이 바로 볼 만한 기사만 추려서 보는 개인용 화면</p>
+      </div>
+      <div class="status-card">
+        <span>소스 6개</span>
+        <span>오늘 핵심 5개</span>
+        <span>쇼츠감 필터 가능</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section class="panel">
+          <h2>빠른 필터</h2>
+          <div class="filter-group" id="sourceFilters"></div>
+          <div class="filter-group" id="tagFilters"></div>
+          <label class="checkbox-row">
+            <input type="checkbox" id="shortsOnly" />
+            <span>쇼츠감 8점 이상만 보기</span>
+          </label>
+        </section>
+
+        <section class="panel">
+          <h2>운영 원칙</h2>
+          <ul>
+            <li>원문 전체 복제 대신 요약과 링크 중심</li>
+            <li>식약처는 공식 경고, 언론은 트렌드 탐지용</li>
+            <li>낚시성 제목은 줄이고 실제 정보가치 반영</li>
+          </ul>
+        </section>
+      </aside>
+
+      <section class="content">
+        <section class="hero panel">
+          <div>
+            <h2>오늘의 핵심 5개</h2>
+            <p>지금 가장 먼저 볼 만한 이슈들</p>
+          </div>
+          <div class="sort-row">
+            <label for="sortSelect">정렬</label>
+            <select id="sortSelect">
+              <option value="priority">중요도 순</option>
+              <option value="latest">최신순</option>
+              <option value="shorts">쇼츠감 높은 순</option>
+            </select>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>핵심 카드</h2>
+          <div id="featuredList" class="card-grid"></div>
+        </section>
+
+        <section class="two-column">
+          <section class="panel">
+            <h2>공식 경고 / 제도 변화</h2>
+            <div id="officialList" class="stack-list"></div>
+          </section>
+          <section class="panel">
+            <h2>쇼츠감 높은 순</h2>
+            <div id="shortsList" class="stack-list"></div>
+          </section>
+        </section>
+
+        <section class="two-column">
+          <section class="panel">
+            <h2>업계 트렌드</h2>
+            <div id="industryList" class="stack-list"></div>
+          </section>
+          <section class="panel">
+            <h2>대중 반응형 건강기사</h2>
+            <div id="publicList" class="stack-list"></div>
+          </section>
+        </section>
+
+        <section class="panel">
+          <h2>전체 목록</h2>
+          <div id="allList" class="stack-list"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
