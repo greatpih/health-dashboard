@@ -3,7 +3,7 @@ const state = {
   source: "all",
   tag: "all",
   shortsOnly: false,
-  sort: "priority",
+  sort: "latest",
 };
 
 const sourceFilters = document.getElementById("sourceFilters");
@@ -11,11 +11,12 @@ const tagFilters = document.getElementById("tagFilters");
 const shortsOnly = document.getElementById("shortsOnly");
 const sortSelect = document.getElementById("sortSelect");
 
-const featuredList = document.getElementById("featuredList");
-const officialList = document.getElementById("officialList");
+const latestList = document.getElementById("latestList");
 const shortsList = document.getElementById("shortsList");
-const industryList = document.getElementById("industryList");
-const publicList = document.getElementById("publicList");
+const medicationList = document.getElementById("medicationList");
+const healthList = document.getElementById("healthList");
+const featuredList = document.getElementById("featuredList");
+const sourceSummary = document.getElementById("sourceSummary");
 const allList = document.getElementById("allList");
 
 function unique(list) {
@@ -33,9 +34,9 @@ function renderChips(container, values, key, labelAll) {
 
 function sortItems(list) {
   const sorted = [...list];
-  if (state.sort === "latest") return sorted.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  if (state.sort === "priority") return sorted.sort((a, b) => (b.priority || 0) - (a.priority || 0));
   if (state.sort === "shorts") return sorted.sort((a, b) => b.shortsScore - a.shortsScore);
-  return sorted.sort((a, b) => (b.priority || 0) - (a.priority || 0));
+  return sorted.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
 function filteredItems() {
@@ -53,51 +54,58 @@ function articleHref(item) {
   return item.originalUrl;
 }
 
-function renderStoryCard(item) {
-  return `
-    <article class="story-card">
-      <p class="small-meta">${item.source} · ${item.publishedAt}</p>
-      <h3>${item.title}</h3>
-      <p>${item.summary}</p>
-      <div class="tags">${item.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}</div>
-      <p><strong>왜 중요한지:</strong> ${item.whyItMatters}</p>
-      <div class="cta-row">
-        <span class="score">쇼츠감 ${item.shortsScore}/10</span>
-        <a class="button-link" href="${articleHref(item)}" target="_blank" rel="noopener noreferrer">원문 보기</a>
-      </div>
-    </article>
-  `;
-}
-
-function renderListCard(item, extraTitle, extraBody) {
+function renderListCard(item, titleOverride, bodyOverride) {
   return `
     <article class="list-card">
       <p class="small-meta">${item.source} · ${item.publishedAt}</p>
-      <h3>${extraTitle || item.title}</h3>
-      <p>${extraBody || item.summary}</p>
+      <h3>${titleOverride || item.title}</h3>
+      <p>${bodyOverride || item.summary}</p>
       <div class="tags">${item.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}</div>
       <div class="cta-row">
-        <span class="small-meta">${item.cautionNote}</span>
+        <span class="small-meta">쇼츠감 ${item.shortsScore}/10</span>
         <a class="button-link" href="${articleHref(item)}" target="_blank" rel="noopener noreferrer">원문</a>
       </div>
     </article>
   `;
 }
 
+function emptyText(message) {
+  return `<p class="meta">${message}</p>`;
+}
+
+function isMedication(item) {
+  const haystack = `${item.title} ${item.summary} ${item.tags.join(" ")}`;
+  return ["약", "복용", "처방", "조제", "급여", "의약품", "진통제", "감기약", "고혈압", "당뇨", "병용금기"].some((word) => haystack.includes(word));
+}
+
+function isHealth(item) {
+  return !isMedication(item) || item.category === "public";
+}
+
+function renderSourceSummary(items) {
+  const counts = {};
+  for (const item of items) counts[item.source] = (counts[item.source] || 0) + 1;
+  return Object.entries(counts)
+    .sort((a, b) => a[0].localeCompare(b[0], "ko"))
+    .map(([source, count]) => `<article class="list-card"><h3>${source}</h3><p>${count}개 기사</p></article>`)
+    .join("");
+}
+
 function render() {
   const list = filteredItems();
-  const featured = list.filter((item) => item.picked).slice(0, 5);
-  const official = list.filter((item) => item.category === "official");
-  const shorts = list.filter((item) => item.shortsScore >= 8);
-  const industry = list.filter((item) => item.category === "industry");
-  const publicItems = list.filter((item) => item.category === "public");
+  const latest = list.slice(0, 12);
+  const shorts = list.filter((item) => item.shortsScore >= 8).slice(0, 12);
+  const medication = list.filter(isMedication).slice(0, 12);
+  const health = list.filter(isHealth).slice(0, 12);
+  const featured = list.filter((item) => item.picked).slice(0, 12);
 
-  featuredList.innerHTML = featured.map(renderStoryCard).join("") || '<p class="meta">조건에 맞는 항목이 아직 없습니다.</p>';
-  officialList.innerHTML = official.map((item) => renderListCard(item)).join("") || '<p class="meta">공식 항목 없음</p>';
-  shortsList.innerHTML = shorts.map((item) => renderListCard(item, item.shortsTitle, item.summary)).join("") || '<p class="meta">쇼츠감 높은 항목 없음</p>';
-  industryList.innerHTML = industry.map((item) => renderListCard(item)).join("") || '<p class="meta">업계 이슈 없음</p>';
-  publicList.innerHTML = publicItems.map((item) => renderListCard(item)).join("") || '<p class="meta">대중 기사 없음</p>';
-  allList.innerHTML = list.map((item) => renderListCard(item)).join("") || '<p class="meta">전체 목록이 비어 있습니다.</p>';
+  latestList.innerHTML = latest.map((item) => renderListCard(item)).join("") || emptyText("최신 기사가 없습니다.");
+  shortsList.innerHTML = shorts.map((item) => renderListCard(item, item.shortsTitle, item.summary)).join("") || emptyText("쇼츠감 높은 기사가 없습니다.");
+  medicationList.innerHTML = medication.map((item) => renderListCard(item)).join("") || emptyText("약 관련 기사가 없습니다.");
+  healthList.innerHTML = health.map((item) => renderListCard(item)).join("") || emptyText("건강 관련 기사가 없습니다.");
+  featuredList.innerHTML = featured.map((item) => renderListCard(item)).join("") || emptyText("추천 기사가 없습니다.");
+  sourceSummary.innerHTML = renderSourceSummary(list) || emptyText("소스 정보가 없습니다.");
+  allList.innerHTML = list.map((item) => renderListCard(item)).join("") || emptyText("전체 목록이 비어 있습니다.");
 }
 
 function bindEvents() {
@@ -138,12 +146,7 @@ async function init() {
     refreshFilters();
     render();
   } catch (error) {
-    featuredList.innerHTML = `<p class="meta">데이터 로딩 실패: ${error.message}</p>`;
-    officialList.innerHTML = "";
-    shortsList.innerHTML = "";
-    industryList.innerHTML = "";
-    publicList.innerHTML = "";
-    allList.innerHTML = "";
+    latestList.innerHTML = `<p class="meta">데이터 로딩 실패: ${error.message}</p>`;
   }
 }
 

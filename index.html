@@ -11,12 +11,12 @@
       <div>
         <p class="eyebrow">부관 private dashboard</p>
         <h1>건강·약 트렌드 대시보드</h1>
-        <p class="subtext">대장님이 바로 볼 만한 기사만 추려서 보는 개인용 화면</p>
+        <p class="subtext">최신 기사, 쇼츠감, 약 관련 흐름을 카테고리별로 보는 개인용 화면</p>
       </div>
       <div class="status-card">
-        <span>소스 6개</span>
-        <span>오늘 핵심 5개</span>
-        <span>쇼츠감 필터 가능</span>
+        <span>운영 소스 4개</span>
+        <span>전체 기사 최신순 확인</span>
+        <span>쇼츠감 분리 보기</span>
       </div>
     </header>
 
@@ -33,11 +33,11 @@
         </section>
 
         <section class="panel">
-          <h2>운영 원칙</h2>
+          <h2>탐색 기준</h2>
           <ul>
-            <li>원문 전체 복제 대신 요약과 링크 중심</li>
-            <li>식약처는 공식 경고, 언론은 트렌드 탐지용</li>
-            <li>낚시성 제목은 줄이고 실제 정보가치 반영</li>
+            <li>최신기사, 쇼츠감, 약 관련 기사 중심</li>
+            <li>전체 기사 노출, 추천은 별도 표시</li>
+            <li>원문 전체 복제 없이 링크 중심</li>
           </ul>
         </section>
       </aside>
@@ -45,54 +45,59 @@
       <section class="content">
         <section class="hero panel">
           <div>
-            <h2>오늘의 핵심 5개</h2>
-            <p>지금 가장 먼저 볼 만한 이슈들</p>
+            <h2>카테고리로 보기</h2>
+            <p>전체를 보되, 대장님이 찾기 쉬운 방식으로 묶어둠</p>
           </div>
           <div class="sort-row">
             <label for="sortSelect">정렬</label>
             <select id="sortSelect">
-              <option value="priority">중요도 순</option>
               <option value="latest">최신순</option>
               <option value="shorts">쇼츠감 높은 순</option>
+              <option value="priority">중요도 순</option>
             </select>
           </div>
         </section>
 
-        <section class="panel">
-          <h2>핵심 카드</h2>
-          <div id="featuredList" class="card-grid"></div>
-        </section>
-
         <section class="two-column">
           <section class="panel">
-            <h2>공식 경고 / 제도 변화</h2>
-            <div id="officialList" class="stack-list"></div>
+            <h2>최신기사</h2>
+            <div id="latestList" class="stack-list"></div>
           </section>
           <section class="panel">
-            <h2>쇼츠감 높은 순</h2>
+            <h2>쇼츠감 높은 기사</h2>
             <div id="shortsList" class="stack-list"></div>
           </section>
         </section>
 
         <section class="two-column">
           <section class="panel">
-            <h2>업계 트렌드</h2>
-            <div id="industryList" class="stack-list"></div>
+            <h2>약 관련 기사</h2>
+            <div id="medicationList" class="stack-list"></div>
           </section>
           <section class="panel">
-            <h2>대중 반응형 건강기사</h2>
-            <div id="publicList" class="stack-list"></div>
+            <h2>건강 관련 기사</h2>
+            <div id="healthList" class="stack-list"></div>
+          </section>
+        </section>
+
+        <section class="two-column">
+          <section class="panel">
+            <h2>추천 기사</h2>
+            <div id="featuredList" class="stack-list"></div>
+          </section>
+          <section class="panel">
+            <h2>소스별 흐름</h2>
+            <div id="sourceSummary" class="stack-list"></div>
           </section>
         </section>
 
         <section class="panel">
-          <h2>전체 목록</h2>
+          <h2>전체 기사</h2>
           <div id="allList" class="stack-list"></div>
         </section>
       </section>
     </main>
 
-    <script src="./data.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>
