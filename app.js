@@ -1,6 +1,5 @@
-const items = window.DASHBOARD_ITEMS;
-
 const state = {
+  items: [],
   source: "all",
   tag: "all",
   shortsOnly: false,
@@ -34,24 +33,24 @@ function renderChips(container, values, key, labelAll) {
 
 function sortItems(list) {
   const sorted = [...list];
-  if (state.sort === "latest") {
-    return sorted.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
-  }
-  if (state.sort === "shorts") {
-    return sorted.sort((a, b) => b.shortsScore - a.shortsScore);
-  }
+  if (state.sort === "latest") return sorted.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  if (state.sort === "shorts") return sorted.sort((a, b) => b.shortsScore - a.shortsScore);
   return sorted.sort((a, b) => (b.priority || 0) - (a.priority || 0));
 }
 
 function filteredItems() {
   return sortItems(
-    items.filter((item) => {
+    state.items.filter((item) => {
       const sourceMatch = state.source === "all" || item.source === state.source;
       const tagMatch = state.tag === "all" || item.tags.includes(state.tag);
       const shortsMatch = !state.shortsOnly || item.shortsScore >= 8;
       return sourceMatch && tagMatch && shortsMatch;
     })
   );
+}
+
+function articleHref(item) {
+  return item.originalUrl;
 }
 
 function renderStoryCard(item) {
@@ -64,7 +63,7 @@ function renderStoryCard(item) {
       <p><strong>왜 중요한지:</strong> ${item.whyItMatters}</p>
       <div class="cta-row">
         <span class="score">쇼츠감 ${item.shortsScore}/10</span>
-        <a class="button-link" href="${item.originalUrl}" target="_blank" rel="noreferrer">원문 보기</a>
+        <a class="button-link" href="${articleHref(item)}" target="_blank" rel="noopener noreferrer">원문 보기</a>
       </div>
     </article>
   `;
@@ -79,7 +78,7 @@ function renderListCard(item, extraTitle, extraBody) {
       <div class="tags">${item.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}</div>
       <div class="cta-row">
         <span class="small-meta">${item.cautionNote}</span>
-        <a class="button-link" href="${item.originalUrl}" target="_blank" rel="noreferrer">원문</a>
+        <a class="button-link" href="${articleHref(item)}" target="_blank" rel="noopener noreferrer">원문</a>
       </div>
     </article>
   `;
@@ -101,16 +100,12 @@ function render() {
   allList.innerHTML = list.map((item) => renderListCard(item)).join("") || '<p class="meta">전체 목록이 비어 있습니다.</p>';
 }
 
-function init() {
-  renderChips(sourceFilters, unique(items.map((item) => item.source)), "source", "all");
-  renderChips(tagFilters, unique(items.flatMap((item) => item.tags)), "tag", "all");
-
+function bindEvents() {
   document.body.addEventListener("click", (event) => {
     const button = event.target.closest("button[data-key]");
     if (!button) return;
     state[button.dataset.key] = button.dataset.value;
-    renderChips(sourceFilters, unique(items.map((item) => item.source)), "source", "all");
-    renderChips(tagFilters, unique(items.flatMap((item) => item.tags)), "tag", "all");
+    refreshFilters();
     render();
   });
 
@@ -123,8 +118,33 @@ function init() {
     state.sort = event.target.value;
     render();
   });
+}
 
-  render();
+function refreshFilters() {
+  renderChips(sourceFilters, unique(state.items.map((item) => item.source)), "source", "all");
+  renderChips(tagFilters, unique(state.items.flatMap((item) => item.tags)), "tag", "all");
+}
+
+async function loadItems() {
+  const response = await fetch("./data/items.json");
+  if (!response.ok) throw new Error("items.json을 불러오지 못했습니다.");
+  state.items = await response.json();
+}
+
+async function init() {
+  bindEvents();
+  try {
+    await loadItems();
+    refreshFilters();
+    render();
+  } catch (error) {
+    featuredList.innerHTML = `<p class="meta">데이터 로딩 실패: ${error.message}</p>`;
+    officialList.innerHTML = "";
+    shortsList.innerHTML = "";
+    industryList.innerHTML = "";
+    publicList.innerHTML = "";
+    allList.innerHTML = "";
+  }
 }
 
 init();
