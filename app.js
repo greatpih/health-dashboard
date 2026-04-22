@@ -4,20 +4,25 @@ const state = {
   tag: "all",
   shortsOnly: false,
   sort: "latest",
+  activeCategory: "latest",
 };
 
 const sourceFilters = document.getElementById("sourceFilters");
 const tagFilters = document.getElementById("tagFilters");
 const shortsOnly = document.getElementById("shortsOnly");
 const sortSelect = document.getElementById("sortSelect");
+const categoryTabs = document.getElementById("categoryTabs");
+const activeCategoryTitle = document.getElementById("activeCategoryTitle");
+const activeCategoryList = document.getElementById("activeCategoryList");
 
-const latestList = document.getElementById("latestList");
-const shortsList = document.getElementById("shortsList");
-const medicationList = document.getElementById("medicationList");
-const healthList = document.getElementById("healthList");
-const featuredList = document.getElementById("featuredList");
-const sourceSummary = document.getElementById("sourceSummary");
-const allList = document.getElementById("allList");
+const CATEGORIES = [
+  { key: "latest", label: "최신기사" },
+  { key: "shorts", label: "쇼츠감" },
+  { key: "medication", label: "약 관련 기사" },
+  { key: "health", label: "건강 관련 기사" },
+  { key: "featured", label: "추천 기사" },
+  { key: "all", label: "전체 기사" },
+];
 
 function unique(list) {
   return [...new Set(list)];
@@ -30,6 +35,13 @@ function renderChips(container, values, key, labelAll) {
     return `<button class="chip ${active ? "active" : ""}" data-key="${key}" data-value="${value}">${value}</button>`;
   });
   container.innerHTML = buttons.join("");
+}
+
+function renderCategoryTabs() {
+  categoryTabs.innerHTML = CATEGORIES.map((category) => {
+    const active = state.activeCategory === category.key;
+    return `<button class="chip ${active ? "active" : ""}" data-key="activeCategory" data-value="${category.key}">${category.label}</button>`;
+  }).join("");
 }
 
 function sortItems(list) {
@@ -82,30 +94,34 @@ function isHealth(item) {
   return !isMedication(item) || item.category === "public";
 }
 
-function renderSourceSummary(items) {
-  const counts = {};
-  for (const item of items) counts[item.source] = (counts[item.source] || 0) + 1;
-  return Object.entries(counts)
-    .sort((a, b) => a[0].localeCompare(b[0], "ko"))
-    .map(([source, count]) => `<article class="list-card"><h3>${source}</h3><p>${count}개 기사</p></article>`)
-    .join("");
+function getCategoryItems(list) {
+  switch (state.activeCategory) {
+    case "shorts":
+      return list.filter((item) => item.shortsScore >= 8);
+    case "medication":
+      return list.filter(isMedication);
+    case "health":
+      return list.filter(isHealth);
+    case "featured":
+      return list.filter((item) => item.picked);
+    case "all":
+      return list;
+    case "latest":
+    default:
+      return list;
+  }
+}
+
+function getCategoryTitle() {
+  return CATEGORIES.find((category) => category.key === state.activeCategory)?.label || "기사 목록";
 }
 
 function render() {
   const list = filteredItems();
-  const latest = list.slice(0, 12);
-  const shorts = list.filter((item) => item.shortsScore >= 8).slice(0, 12);
-  const medication = list.filter(isMedication).slice(0, 12);
-  const health = list.filter(isHealth).slice(0, 12);
-  const featured = list.filter((item) => item.picked).slice(0, 12);
-
-  latestList.innerHTML = latest.map((item) => renderListCard(item)).join("") || emptyText("최신 기사가 없습니다.");
-  shortsList.innerHTML = shorts.map((item) => renderListCard(item, item.shortsTitle, item.summary)).join("") || emptyText("쇼츠감 높은 기사가 없습니다.");
-  medicationList.innerHTML = medication.map((item) => renderListCard(item)).join("") || emptyText("약 관련 기사가 없습니다.");
-  healthList.innerHTML = health.map((item) => renderListCard(item)).join("") || emptyText("건강 관련 기사가 없습니다.");
-  featuredList.innerHTML = featured.map((item) => renderListCard(item)).join("") || emptyText("추천 기사가 없습니다.");
-  sourceSummary.innerHTML = renderSourceSummary(list) || emptyText("소스 정보가 없습니다.");
-  allList.innerHTML = list.map((item) => renderListCard(item)).join("") || emptyText("전체 목록이 비어 있습니다.");
+  const categoryItems = getCategoryItems(list);
+  activeCategoryTitle.textContent = getCategoryTitle();
+  activeCategoryList.innerHTML = categoryItems.map((item) => renderListCard(item, state.activeCategory === "shorts" ? item.shortsTitle : undefined)).join("") || emptyText("해당 카테고리에 기사가 없습니다.");
+  renderCategoryTabs();
 }
 
 function bindEvents() {
@@ -146,7 +162,7 @@ async function init() {
     refreshFilters();
     render();
   } catch (error) {
-    latestList.innerHTML = `<p class="meta">데이터 로딩 실패: ${error.message}</p>`;
+    activeCategoryList.innerHTML = `<p class="meta">데이터 로딩 실패: ${error.message}</p>`;
   }
 }
 
