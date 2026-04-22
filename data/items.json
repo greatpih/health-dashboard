@@ -1,5 +1,287 @@
 [
   {
+    "id": "kormedi-2809648",
+    "title": "변기 속 데이터 분석 ‘스마트 변기’⋯국내서도 상용화될 수 있을까",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-23 06:31",
+    "category": "public",
+    "tags": [
+      "운전주의",
+      "당뇨"
+    ],
+    "summary": "인공지능(AI) 기술이 발전하면서 수면 단계나 혈당, 심박수 등 개인의 건강 데이터를 스스로 측정해 관리할 수 있는 다양한 정보기술(IT)… The post 변기 속 데이터 분석 ‘스마트 변기’⋯국내서도 상용화될 수 있을까 appeared first ...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "shortsScore": 7,
+    "shortsTitle": "변기 속 데이터 분석 ‘스마트 변기’⋯국내서도 상용화될 수 있을까 꼭 조심해야 하는 이유",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2809648/",
+    "picked": false,
+    "priority": 77
+  },
+  {
+    "id": "hidoc-61493",
+    "title": "보랏빛 디저트 열풍의 주인공 ‘우베’, 타로와 어떻게 다를까",
+    "source": "하이닥",
+    "publishedAt": "2026-04-23 06:30",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "말차, 두바이 초콜릿에 이어 디저트 업계의 새로운 주인공으로 ‘우베(ube)’가 떠오르고 있다. 선명한 보라색이 시선을 사로잡는 우베는 아이스크림, 라테, 버블티",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "보랏빛 디저트 열풍의 주인공 ‘우베’, 타로와 어떻게 다를까",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61493",
+    "picked": false,
+    "priority": 71
+  },
+  {
+    "id": "kormedi-2809489",
+    "title": "김미려, 결혼 13년차인데 “각방 쓰지만 화기애애”…비결 뭐길래?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-23 06:09",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "코미디언 김미려가 남편과 각방을 쓰지만 화기애애한 사이라고 들려줬다. 최근 김미려는 유튜브 ‘롤링썬더’에 출연해 남편 배우 정성윤과 13년차 결혼… The post 김미려, 결혼 13년차인데 “각방 쓰지만 화기애애”…비결 뭐길래? appeared fi...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "김미려, 결혼 13년차인데 “각방 쓰지만 화기애애”…비결 뭐길래?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2809489/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "kormedi-2809440",
+    "title": "“아이 셋 이상 낳으면 좋아”… ‘이 병’ 위험 확 낮아진다고?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-23 06:04",
+    "category": "public",
+    "tags": [
+      "건강상식",
+      "쇼츠유망"
+    ],
+    "summary": "아이를 셋 이상 출산한 여성은 뇌졸중과 혈관성 뇌 손상 위험이 낮다는 연구 결과가 나왔다. 미국 텍사스대 샌안토니오 건강과학센터와… The post “아이 셋 이상 낳으면 좋아”… ‘이 병’ 위험 확 낮아진다고? appeared first on 코메디...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "shortsScore": 6,
+    "shortsTitle": "“아이 셋 이상 낳으면 좋아”… ‘이 병’ 위험 확 낮아진다고?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2809440/",
+    "picked": false,
+    "priority": 76
+  },
+  {
+    "id": "kormedi-2809731",
+    "title": "“유당불내증 때문에 우유 안 마셔”… 착각일 수 있다고? / “아침 공복에 꼭 먹는다”… 비만전문의가 극찬한 다이어트 음식 2가지 / 삼성바이오, 1분기 영업이익 5800억원·영업이익률 46%",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "“유당불내증 때문에 우유 안 마셔”… 착각일 수 있다고? 서울 영등포에 거주하는 중학교 2학년 학생 A군은… The post “유당불내증 때문에 우유 안 마셔”… 착각일 수 있다고? / “아침 공복에 꼭 먹는다”… 비만전문의가 극찬한 다이어트 음식 2...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "“유당불내증 때문에 우유 안 마셔”… 착각일 수 있다고? / “아침 공복에 꼭 먹는다”… 비만전문의가 극찬한 다이어트 음식 2가지 / 삼성바이오, 1분기 영업이익 5800억원·영업이익률 46%",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2809731/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "dailypharm-337796",
+    "title": "의협",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "쇼츠유망"
+    ],
+    "summary": "중동전쟁의 여파로 글로벌 공급망 불안이 고조되는 가운데, 이를 악용해 의료소모품 가격을 폭등시키거나 매점매석하는 일부 유통업체의 행태에 대해 의료계가 강력한 경고 메시지를 냈다. 대한의사협회(이하 의협)는 22일 중동전쟁에 따른 의료현장의 소모품 확보...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 6,
+    "shortsTitle": "의협",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337796",
+    "picked": false,
+    "priority": 74
+  },
+  {
+    "id": "dailypharm-337629",
+    "title": "매출·현금 다 잡은 중소 제약, IPO 대신 내실경영 가속",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "국내 중소형 제약사의 IPO 의미가 달라지고 있다. 과거에는 연구개발(R&D) 자금 확보를 위한 필수 관문에 가까웠지만, 최근에는 실적과 현금을 쌓은 중소형 제약사들을 중심으로 상장을 서두르지 않는 선택이 늘고 있다. 숫자가 부족해 상장을 미루는 것이...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "매출·현금 다 잡은 중소 제약, IPO 대신 내실경영 가속",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337629",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "dailypharm-337794",
+    "title": "불순물에 기세 꺾였나...클래리트로 항생제 처방시장 '뚝'",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "항생제 클래리트로마이신의 처방 시장이 하락세를 나타냈다. 코로나19 팬데믹과 엔데믹을 지나면서 고공행진을 거듭했지만 지난해부터 상승세가 한풀 꺾였다. 지난해 말부터 클래리트로마이신 전반에 걸쳐 불순물 리스크가 노출되면서 처방 기피 현상이 불거졌을 가능...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "불순물에 기세 꺾였나...클래리트로 항생제 처방시장 '뚝'",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337794",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "dailypharm-337791",
+    "title": "K-바이오, 국제암학회 총출동…데이터는 좋지만 주가는 희비",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "국내 제약바이오 기업이 세계 최대 항암 분야 학술대회인 미국암연구학회(AACR)를 전후로 엇갈린 주가 흐름을 보였다. 주요 파이프라인 임상 데이터를 구두 발표한 알지노믹스와 HLB그룹 계열사 등은 주가가 상승 랠리를 이어갔다. 반면 초록 공개 이후 기...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "K-바이오, 국제암학회 총출동…데이터는 좋지만 주가는 희비",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337791",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "dailypharm-337792",
+    "title": "급여재평가 1400억 시장 기로...선별급여 등 내년 결론",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "올해 급여적정성 재평가 결과에 따라 약 1400억원 시장의 희비가 엇갈릴 전망이가. 급여 적정성을 입증 못 하면 선별급여 혹은 급여퇴출 기로에 서기 때문이다. 특히 콜린알포의 급여 축소로 매출 급등세를 보이고 있는 은행엽 제제는 내년 재평가 결론에 따...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "급여재평가 1400억 시장 기로...선별급여 등 내년 결론",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337792",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "dailypharm-337795",
+    "title": "도수치료, 7월부터 '급여권' 편입…가격·횟수 정부 통제",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "보건복지부가 비급여 진료인 도수치료를 관리급여로 전환해 상한 수가(치료행위 가격)와 연내 허용 횟수를 통제하는 내용을 내달(5월) 건강보험정책심의위원회에 상정할 방침이다. 현재 논의중인 내용은 도수치료 상한 가격의 경우 4만원대, 허용 횟수는 연내 최...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "도수치료, 7월부터 '급여권' 편입…가격·횟수 정부 통제",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337795",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "dailypharm-337780",
+    "title": "버제니오 이어 '퍼제타'도 수술 후 보조요법 기사회생?",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "유방암치료제 퍼제타의 수술 후 보조요법 보험급여 기준 확대의 불씨가 다시 살아났다. 취재 결과, 대한종양내과학회 유방암분과는 지난 연초 한국로슈의 HER2 양성 유방암치료제 퍼제타(퍼투주맙)의 수술 후 보조요법 급여 확대 신청을 제출했다. 학회는 CD...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "버제니오 이어 '퍼제타'도 수술 후 보조요법 기사회생?",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337780",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "dailypharm-337777",
+    "title": "'내인성 물질' 생동기준 예외 가능할까…약심 '원칙 고수'",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "내인성 물질인 아미노산 성분을 함유한 경구용 의약품에 대해 동등성 기준을 완화해야 하느냐 문제에 대해 중앙약심이 원칙을 고수하며 예외는 없다고 판단했다. 최근 2025년 동등성 재평가에서 부적합 판정을 받은 JW중외제약의 제이리브현탁액 이야기다. 최근...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "'내인성 물질' 생동기준 예외 가능할까…약심 '원칙 고수'",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/337777",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "kpanews-533501",
+    "title": "\"공공심야약국 아침까지\"…시도의회장협 건의안 가결",
+    "source": "약사공론",
+    "publishedAt": "2026-04-23 06:00",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "공공심야약국이 국민건강 조제환경 개선 및 취약시간대 의약품 공급에 효과를 보이고 있는 가운데, 공공심야약국 운영 시간 효율화, 국비지원 강화 등 제도 개선이 필요",
+    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "\"공공심야약국 아침까지\"…시도의회장협 건의안 가결",
+    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
+    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533501",
+    "picked": false,
+    "priority": 70
+  },
+  {
+    "id": "kpanews-533508",
+    "title": "‘미카클로정’ 임상 GCP 점검 결과 공개…중대 위반 없이 적합 회신",
+    "source": "약사공론",
+    "publishedAt": "2026-04-23 05:50",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "식품의약품안전처가 유한양행의 ‘미카클로정40/12.5밀리그램 외 1품목(텔미사르탄, 클로르탈리돈)’과 관련해 실시한 임상시험 관리기준(GCP) 실태조사에서 의뢰자",
+    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "‘미카클로정’ 임상 GCP 점검 결과 공개…중대 위반 없이 적합 회신",
+    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
+    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533508",
+    "picked": false,
+    "priority": 70
+  },
+  {
     "id": "kormedi-2809778",
     "title": "‘49kg’ 홍현희, 살이 정말 쏙 빠졌네… ‘이 샐러드’ 배부르고 혈당에 좋아?",
     "source": "코메디닷컴",
@@ -111,25 +393,6 @@
     "priority": 71
   },
   {
-    "id": "kormedi-2809359",
-    "title": "베트남 20대 男, 양눈에 젓가락 박히는 사고… \"1mm만 더 깊었어도 위험했을 것\"",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-22 20:05",
-    "category": "public",
-    "tags": [
-      "건강상식",
-      "쇼츠유망"
-    ],
-    "summary": "양쪽 눈에 젓가락이 박히는 사고를 겪은 베트남 남성의 사례가 전해졌다. 베트남 비엣득 병원은 양눈에 젓가락이 박힌 남성을 성공적으로… The post 베트남 20대 男, 양눈에 젓가락 박히는 사고… \"1mm만 더 깊었어도 위험했을 것\" appeared...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "shortsScore": 6,
-    "shortsTitle": "베트남 20대 男, 양눈에 젓가락 박히는 사고… \"1mm만 더 깊었어도 위험했을 것\"",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2809359/",
-    "picked": false,
-    "priority": 76
-  },
-  {
     "id": "hidoc-61488",
     "title": "“은퇴 후 더 위험하다”…5060 ‘고립’이 몸까지 망치는 이유",
     "source": "하이닥",
@@ -166,24 +429,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61476",
     "picked": false,
     "priority": 72
-  },
-  {
-    "id": "kormedi-2809575",
-    "title": "라면, 밥 먹을 때 부추 함께 먹었더니…몸에 어떤 변화가?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-22 19:01",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "부추가 제철이다. 지금이 가장 연하고 맛이 좋은 시기이다. 부추는 어떤 영양소가 들어 있을까? 양파, 마늘, 대파와 같은 백합과… The post 라면, 밥 먹을 때 부추 함께 먹었더니…몸에 어떤 변화가? appeared first on 코메디닷컴 .",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "라면, 밥 먹을 때 부추 함께 먹었더니…몸에 어떤 변화가?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2809575/",
-    "picked": false,
-    "priority": 75
   },
   {
     "id": "hidoc-61402",
@@ -225,60 +470,6 @@
     "priority": 72
   },
   {
-    "id": "kormedi-2809741",
-    "title": "“영양 불균형 어떻게 해소할까”… 한-뉴 전문가, 머리 맞댔다",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-22 18:25",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "한국과 뉴질랜드의 영양학 전문가들이 한자리에 모여 현대인의 영양 불균형 해소를 위한 식습관 개선 방향을 모색했다. 키위 브랜드 제스프리는… The post “영양 불균형 어떻게 해소할까”… 한-뉴 전문가, 머리 맞댔다 appeared first on ...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "“영양 불균형 어떻게 해소할까”… 한-뉴 전문가, 머리 맞댔다",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2809741/",
-    "picked": false,
-    "priority": 75
-  },
-  {
-    "id": "kormedi-2809694",
-    "title": "K-제약사들, 동물약 정조준…신약 개발 앞서 가는 대웅제약",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-22 18:23",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "국내 10여 개 제약사가 동물의약품에서 신성장 동력을 찾고 있다. 유력한 신약 후보 2종을 보유한 대웅제약이 주목받는 가운데 HK이노엔과… The post K-제약사들, 동물약 정조준…신약 개발 앞서 가는 대웅제약 appeared first on 코메...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "K-제약사들, 동물약 정조준…신약 개발 앞서 가는 대웅제약",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2809694/",
-    "picked": false,
-    "priority": 75
-  },
-  {
-    "id": "dailypharm-337793",
-    "title": "건보공단, 4년 연속 고객만족도 우수기관 달성",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 18:08",
-    "category": "industry",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "국민건강보험공단(이사장 정기석)은 재정경제부가 주관하는 ‘2025년도 공공기관 고객만족도 조사’에서 4년 연속 우수기관으로 선정됐다. 공단은 국민의 다양한 요구를 반영한 국민 체감형 서비스 혁신과 디지털 기반 서비스 고도화를 지속 추진하고 있다. 모바...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "건보공단, 4년 연속 고객만족도 우수기관 달성",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337793",
-    "picked": false,
-    "priority": 73
-  },
-  {
     "id": "hidoc-61457",
     "title": "“체중 안 빠져도 기운 없다면, 영양 상태 확인해야”... 노년기 영양 관리 10문 10답",
     "source": "하이닥",
@@ -293,174 +484,6 @@
     "shortsTitle": "“체중 안 빠져도 기운 없다면, 영양 상태 확인해야”... 노년기 영양 관리 10문 10답",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61457",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "kpanews-533500",
-    "title": "삼성바이오로직스, 매출 1.25조·영업익 5808억…두 자릿수 성장",
-    "source": "약사공론",
-    "publishedAt": "2026-04-22 17:48",
-    "category": "industry",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "삼성바이오로직스가 2026년 1분기 생산시설 가동률을 극대화하며 분기 기준 최대 실적을 기록했다.회사는 22일 공시를 통해 매출 1조2571억원, 영업이익 580",
-    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "삼성바이오로직스, 매출 1.25조·영업익 5808억…두 자릿수 성장",
-    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
-    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533500",
-    "picked": false,
-    "priority": 70
-  },
-  {
-    "id": "dailypharm-337786",
-    "title": "고칼륨혈증 관리 공백 겨냥…'로켈마' 국내 출시",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 16:40",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "고칼륨혈증 관리 과정에서 RAAS 억제제 중단이라는 치료 딜레마를 해소할 수 있는 신약이 국내에 도입됐다. 신규 칼륨 결합제 로켈마 임상 근거를 바탕으로 RAAS 억제제 유지 전략을 뒷받침할 수 있는 옵션으로 제시되면서, 치료 패러다임 변화 가능성이 ...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "고칼륨혈증 관리 공백 겨냥…'로켈마' 국내 출시",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337786",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-337785",
-    "title": "휴온스, 휴온스생명과학 흡수합병 결정…의약품 경쟁력 강화",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 16:21",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "휴온스는 100% 종속회사인 휴온스생명과학을 흡수합병하기로 결정했다고 22일 공시를 통해 밝혔다. 양사는 오는 23일 합병 계약을 체결한 이후 관련 신고와 절차를 거쳐 6월 중 합병을 완료할 계획이다. 합병 기일은 6월 23일이며, 주주 확정 기준일은...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "휴온스, 휴온스생명과학 흡수합병 결정…의약품 경쟁력 강화",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337785",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-337783",
-    "title": "삼성바이오로직스, 1Q 영업익 35%↑…이익률 46%",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 16:07",
-    "category": "industry",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "삼성바이오로직스가 공장 풀가동 효과에 힘입어 1분기 매출과 영업이익 모두 두 자릿수 성장세를 기록했다. 22일 금융감독원에 따르면 삼성바이오로직스의 올 1분기 연결 기준 매출은 1조2571억원으로 집계됐다. 이는 전년 동기 대비 25.8% 증가한 수치...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "삼성바이오로직스, 1Q 영업익 35%↑…이익률 46%",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337783",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-337784",
-    "title": "다산제약, 'CPHI JAPAN' 참가 글로벌 확장 본격화",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 16:07",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "다산제약은 일본 도쿄 빅사이트에서 열리는 CPHI JAPAN 2026에 참가해 제제 기술력과 사업 모델을 선보이고 있다고 22일 밝혔다. 이번 전시회는 지난 21일부터 23일까지 진행된다. CPHI JAPAN은 의약품 원료부터 신약 개발, 패키징까지 ...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "다산제약, 'CPHI JAPAN' 참가 글로벌 확장 본격화",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337784",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-337782",
-    "title": "성북구약, 한국여약사회에 코피노 아동 장학사업 지원금 전달",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 16:02",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "서울 성북구약사회(회장 최명숙) 여약사위원회(부회장 신경, 위원장 서은아)는 지난 14일한국여약사회(회장 이숙연)에 필리핀 코피노아동 장학사업을 위한 지원금 100만원을 전달했다고 밝혔다. 한국여약사회가 진행하는 필리핀 코피노 장학사업은 올해로 10주...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "성북구약, 한국여약사회에 코피노 아동 장학사업 지원금 전달",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337782",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-337781",
-    "title": "한림제약 후원 임세원 의학상 고대 구로병원 이문수 교수 수상",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 16:02",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "한림제약은 제7회 ‘임세원 추모 의학상’ 수상자로 고려대학교 구로병원 정신건강의학과 이문수 교수가 선정됐다고 22일 밝혔다. 시상식은 지난 16일 서울 소공동 롯데호텔에서 열린 ‘2026 대한신경정신의학회 춘계학술대회 및 제69차 정기총회’에서 진행됐...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "한림제약 후원 임세원 의학상 고대 구로병원 이문수 교수 수상",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337781",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-337773",
-    "title": "규모의 경제…대웅제약 '거점도매'가 그리는 유통 선진화",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-22 15:41",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "대한민국 의약품 유통 시장이 ‘규모의 경제’ 중심으로 재편되고 있다. 대웅제약이 전국을 10개 권역으로 나누고 각 권역을 책임질 거점 도매사를 선정해 의약품을 공급하는 ‘블록형 거점도매’ 모델을 도입했다. 분산된 유통 구조를 권역 중심으로 묶는 공급 ...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "규모의 경제…대웅제약 '거점도매'가 그리는 유통 선진화",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337773",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "hidoc-61398",
-    "title": "뒷목부터 정수리까지 찌릿한 통증... ‘거북목’ 신호일 수도",
-    "source": "하이닥",
-    "publishedAt": "2026-04-22 15:30",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "컴퓨터와 스마트폰 사용이 일상화된 현대인에게 '뒷목 뻐근함'은 흔한 증상입니다. 단순히 피로감이 누적돼 뒷목이 묵직하고 뻐근하다고 느낄 수 있지만, 근육 뭉침을",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "뒷목부터 정수리까지 찌릿한 통증... ‘거북목’ 신호일 수도",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61398",
     "picked": false,
     "priority": 71
   },
@@ -484,26 +507,6 @@
     "priority": 71
   },
   {
-    "id": "kpanews-533449",
-    "title": "얼리다·펠루비 인하에 설글리코타이드 퇴출…약국가 반품 주의",
-    "source": "약사공론",
-    "publishedAt": "2026-04-22 12:03",
-    "category": "public",
-    "tags": [
-      "부작용",
-      "쇼츠유망",
-      "대중관심"
-    ],
-    "summary": "5월 약가변동 예정사항이 공개되면서 반품을 위한 약국가 주의가 요구된다.업계에 따르면 5월 1일부터 적용되는 약가변동에는 인하폭이 큰 주요 품목들이 포함됐다. 먼",
-    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
-    "shortsScore": 7,
-    "shortsTitle": "얼리다·펠루비 인하에 설글리코타이드 퇴출…약국가 반품 주의",
-    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
-    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533449",
-    "picked": false,
-    "priority": 72
-  },
-  {
     "id": "kpanews-532948",
     "title": "[영상] 3년간 헌혈 금지, 임신도 위험… 복용 시 주의사항",
     "source": "약사공론",
@@ -521,6 +524,24 @@
     "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=532948",
     "picked": false,
     "priority": 72
+  },
+  {
+    "id": "kpanews-533286",
+    "title": "부평구약, 최은경 인천시의원 비례출마 예정자 지지 선언",
+    "source": "약사공론",
+    "publishedAt": "2026-04-20 11:27",
+    "category": "industry",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "인천 부평구약사회가 최은경 인천시의원 비례대표 출마 예정자에 대한 공식 지지를 선언했다.부평구약사회는 15일 이사회 명의의 입장문을 통해 “약사 직능의 가치를 실",
+    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "부평구약, 최은경 인천시의원 비례출마 예정자 지지 선언",
+    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
+    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533286",
+    "picked": false,
+    "priority": 70
   },
   {
     "id": "kpanews-533247",
@@ -541,44 +562,6 @@
     "priority": 71
   },
   {
-    "id": "kpanews-533168",
-    "title": "코로나19 피해보상 특별법 개정안 관심 갖는 이유는?",
-    "source": "약사공론",
-    "publishedAt": "2026-04-17 12:00",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "코로나19 변이가 유행하는 조짐을 보이며 최근 국회에서 연이어 발의된 피해보상 등을 다루는 특별법 개정안에 관심이 쏠리고 있다. '코로나19 팬데믹' 위기상황에서",
-    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "코로나19 피해보상 특별법 개정안 관심 갖는 이유는?",
-    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
-    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533168",
-    "picked": false,
-    "priority": 70
-  },
-  {
-    "id": "kpanews-533155",
-    "title": "코로나 이후 인플루엔자 부담 다시 증가…\"고령층 사망 예방 최대 81%\"",
-    "source": "약사공론",
-    "publishedAt": "2026-04-17 09:30",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "코로나19 이후 주춤했던 인플루엔자가 다시 확산 양상을 보이며 질병부담이 증가한 것으로 나타났다.질병관리청과 건강보험공단은 17일 '국가 인플루엔자 연례보고서'를",
-    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "코로나 이후 인플루엔자 부담 다시 증가…\"고령층 사망 예방 최대 81%\"",
-    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
-    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533155",
-    "picked": false,
-    "priority": 70
-  },
-  {
     "id": "kpanews-532861",
     "title": "[영상] \"같은 시간대에 복용하세요\" 폐경기 호르몬 치료제",
     "source": "약사공론",
@@ -596,5 +579,23 @@
     "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=532861",
     "picked": false,
     "priority": 71
+  },
+  {
+    "id": "kpanews-532652",
+    "title": "대한약사회 집행부 1주년 평가, ‘회원 체감 현안 설정·소통’ 과제 부각",
+    "source": "약사공론",
+    "publishedAt": "2026-04-09 11:59",
+    "category": "industry",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "제41대 대한약사회 권영희 집행부 출범 1주년을 맞아 실시된 설문조사에서 회원이 체감할 수 있는 현안의 우선 설정과 소통이 주요한 과제로 부각됐다.약사의 미래를",
+    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "대한약사회 집행부 1주년 평가, ‘회원 체감 현안 설정·소통’ 과제 부각",
+    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
+    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=532652",
+    "picked": false,
+    "priority": 70
   }
 ]
