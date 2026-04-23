@@ -1,5 +1,45 @@
 [
   {
+    "id": "kormedi-2809769",
+    "title": "“밤마다 미친 듯이 가려워”…11개월 간 가려움 ‘건조 피부’랬는데, 암이라고?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-23 20:05",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "밤마다 심한 가려움에 시달렸지만 피부가 건조해서라고만 진단 받다가 스스로 질환을 찾아 병원 검사를 요청한 결과, 호지킨 림프종을 진단… The post “밤마다 미친 듯이 가려워”…11개월 간 가려움 ‘건조 피부’랬는데, 암이라고? appeared f...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "“밤마다 미친 듯이 가려워”…11개월 간 가려움 ‘건조 피부’랬는데, 암이라고?",
+    "shortsScore": 5,
+    "shortsTitle": "“밤마다 미친 듯이 가려워”…11개월 간 가려움 ‘건조 피부’랬는데, 암이라고?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2809769/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "hidoc-61535",
+    "title": "임신 중 콜레스테롤 합성 억제 약물 복용… 자녀 자폐 위험 1.47배↑",
+    "source": "하이닥",
+    "publishedAt": "2026-04-23 20:00",
+    "category": "public",
+    "tags": [
+      "건강상식",
+      "쇼츠유망",
+      "대중관심"
+    ],
+    "summary": "임신 중 콜레스테롤 합성을 억제하는 특정 약물을 복용할 경우 태어난 자녀가 자폐 스펙트럼 장애(ASD)를 진단받을 위험이 높아질 수 있다는 연구 결과가 나왔다.",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "임신 중 콜레스테롤 합성을 억제하는 특정 약물을 복용할 경우 태어난 자녀가 자폐 스펙트럼 장애(ASD)를 진단받을 위험이 높아질 수 있다는 연구 결과가 나왔다.",
+    "shortsScore": 6,
+    "shortsTitle": "임신 중 콜레스테롤 합성 억제 약물 복용… 자녀 자폐 위험 1.47배↑",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61535",
+    "picked": false,
+    "priority": 72
+  },
+  {
     "id": "hidoc-61500",
     "title": "“오십견, 아파도 움직여야 회복”...전문의 추천 스트레칭 법 3가지",
     "source": "하이닥",
@@ -234,25 +274,6 @@
     "priority": 75
   },
   {
-    "id": "kormedi-2809955",
-    "title": "“폐에 검은 덩어리 잔뜩” 80대男, 연기만 마셨을 뿐인데… 무슨 일?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-23 16:10",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "산불 연기를 들이마신 뒤 호흡곤란을 호소하며 병원을 찾은 80대 남성의 기관지와 폐에서 검은색 덩어리가 다수 발견된 사례가 보고됐다.… The post “폐에 검은 덩어리 잔뜩” 80대男, 연기만 마셨을 뿐인데… 무슨 일? appeared first ...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "산불 연기를 들이마신 뒤 호흡곤란을 호소하며 병원을 찾은 80대 남성의 기관지와 폐에서 검은색 덩어리가 다수 발견된 사례가 보고됐다.… “폐에 검은 덩어리 잔뜩”...",
-    "shortsScore": 5,
-    "shortsTitle": "“폐에 검은 덩어리 잔뜩” 80대男, 연기만 마셨을 뿐인데… 무슨 일?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2809955/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "dailypharm-337828",
     "title": "병원협회, 의료용품 수급 안정화 위한 '자율실천 선언' 채택",
     "source": "데일리팜",
@@ -311,26 +332,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61522",
     "picked": false,
     "priority": 72
-  },
-  {
-    "id": "hidoc-61245",
-    "title": "젊다고 안심 못 해… ‘침묵의 질환’ 대장암, 무시하면 안 될 배변 변화는?",
-    "source": "하이닥",
-    "publishedAt": "2026-04-23 11:00",
-    "category": "public",
-    "tags": [
-      "부작용",
-      "쇼츠유망"
-    ],
-    "summary": "최근 20~30대 젊은 층 사이에서 대장암 발병률이 크게 늘며 각별한 주의가 요구되고 있다. 서구화된 식습관과 가공육 섭취, 운동 부족 등이 주요 원인으로 꼽히는",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "최근 20~30대 젊은 층 사이에서 대장암 발병률이 크게 늘며 각별한 주의가 요구되고 있다.",
-    "shortsScore": 7,
-    "shortsTitle": "젊다고 안심 못 해… ‘침묵의 질환’ 대장암, 무시하면 안 될 배변 변화는?",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61245",
-    "picked": false,
-    "priority": 73
   },
   {
     "id": "kpanews-532948",
