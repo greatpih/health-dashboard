@@ -32,7 +32,12 @@ KEYWORD_RULES = {
 EXCLUDE_KEYWORDS = [
     "제약사", "제약·바이오", "공동개발", "투자", "매출", "실적", "임상", "신약 개발", "MOU",
     "병원장", "의료원", "학술대회", "박람회", "부스", "협약", "대통령 표창", "기업", "상장",
-    "전시", "오픈이노베이션", "주총", "인사발령", "IR", "증권", "수상", "기념식"
+    "전시", "오픈이노베이션", "주총", "인사발령", "IR", "증권", "수상", "기념식",
+    "대한약사회", "약사회", "약국가", "약국 경영", "반품", "품절", "수가", "급여", "약가",
+    "정책", "정책·법률", "법률", "행정처분", "처방목록", "대체조제", "약사법", "심평원",
+    "건보", "복지부", "식약처", "제도", "인하", "등재", "바이오", "주사제 시장",
+    "GMP", "수출 확대", "진출 본격화", "파트너십", "선정", "사업", "의료시스템", "헬스케어 진출",
+    "그룹", "재단", "지원사업", "시장", "약국 현장", "약국계", "유통"
 ]
 
 
@@ -89,19 +94,29 @@ def score_item(title: str, summary: str, tags):
 
 
 def simple_summary(title: str, summary: str, tags):
+    cleaned = summary.replace("The post", "").replace("appeared first on", "")
+    cleaned = re.sub(r'코메디닷컴.*$', '', cleaned).strip()
+    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+
+    first_sentence = re.split(r'(?<=[.!?])\s+|(?<=다)\s+', cleaned)[0].strip() if cleaned else ""
+
+    if first_sentence and len(first_sentence) >= 25:
+        return first_sentence[:90] + ("..." if len(first_sentence) > 90 else "")
     if "병용금기" in tags:
-        return "같이 먹는 약 조합을 꼭 다시 확인해볼 만한 내용이에요."
+        return "같이 먹는 약 조합에 따라 문제가 생길 수 있어 확인이 필요한 기사예요."
     if "운전주의" in tags:
-        return "복용 후 졸림이나 집중력 저하가 문제될 수 있는 내용이에요."
+        return "복용 후 졸림이나 집중력 저하가 생길 수 있는지 살펴볼 만한 기사예요."
     if "고혈압" in tags:
-        return "혈압 관리나 혈압약 복용과 연결해 볼 만한 내용이에요."
+        return "혈압 관리나 혈압약 복용 중인 사람이 체크해볼 만한 내용이에요."
     if "당뇨" in tags:
-        return "혈당 관리나 당뇨 생활습관과 연결해 볼 만한 내용이에요."
-    if "감기약" in tags or "진통제" in tags:
-        return "일상에서 자주 쓰는 약과 관련돼 확인해둘 가치가 있어요."
+        return "혈당 조절이나 당뇨 관리에 참고할 만한 포인트가 담긴 기사예요."
+    if "감기약" in tags:
+        return "감기약을 먹을 때 주의할 점을 확인해볼 만한 기사예요."
+    if "진통제" in tags:
+        return "진통제를 자주 먹는 사람이라면 확인해둘 만한 기사예요."
     if "부작용" in tags:
-        return "부작용이나 주의사항을 가볍게 넘기면 안 되는 내용이에요."
-    return summary[:55] + ("..." if len(summary) > 55 else "")
+        return "부작용이나 주의사항을 가볍게 넘기지 말아야 한다는 점을 짚는 기사예요."
+    return title[:80] + ("..." if len(title) > 80 else "")
 
 
 def should_exclude(title: str, summary: str):
