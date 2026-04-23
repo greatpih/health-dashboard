@@ -97,6 +97,15 @@ h1 { margin: 0; font-size: 32px; }
 }
 .story-card h3, .list-card h3 { margin: 0 0 10px; font-size: 18px; }
 .meta, .small-meta { color: var(--muted); font-size: 13px; }
+.simple-summary {
+  margin-top: 10px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: rgba(56, 189, 248, 0.08);
+  border: 1px solid rgba(56, 189, 248, 0.18);
+  color: #dbeafe;
+  font-size: 14px;
+}
 .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
 .tag {
   font-size: 12px;

@@ -72,6 +72,7 @@ function renderListCard(item, titleOverride, bodyOverride) {
       <p class="small-meta">${item.source} · ${item.publishedAt}</p>
       <h3>${titleOverride || item.title}</h3>
       <p>${bodyOverride || item.summary}</p>
+      <p class="simple-summary">한줄 요약: ${item.simpleSummary || item.summary}</p>
       <div class="tags">${item.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}</div>
       <div class="cta-row">
         <span class="small-meta">쇼츠감 ${item.shortsScore}/10</span>
