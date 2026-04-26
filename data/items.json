@@ -1,5 +1,43 @@
 [
   {
+    "id": "kormedi-2810715",
+    "title": "\"꼭지 떼고 냉장고 보관?\"...토마토 금방 상하게 하는 ‘이 행동’ 뭐길래?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-27 07:02",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "토마토를 냉장고에 넣어두면 오래갈 것 같지만, 며칠 지나지 않아 속이 물러지는 경우가 적지 않다. 겉은 멀쩡해 보여도 식감과… The post \"꼭지 떼고 냉장고 보관?\"...토마토 금방 상하게 하는 ‘이 행동’ 뭐길래? appeared first o...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "토마토를 냉장고에 넣어두면 오래갈 것 같지만, 며칠 지나지 않아 속이 물러지는 경우가 적지 않다.",
+    "shortsScore": 5,
+    "shortsTitle": "\"꼭지 떼고 냉장고 보관?\"...토마토 금방 상하게 하는 ‘이 행동’ 뭐길래?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2810715/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "hidoc-61451",
+    "title": "“단순 소화불량인 줄 알았는데…” 의외로 놓치기 쉬운 췌장 이상 징후 5",
+    "source": "하이닥",
+    "publishedAt": "2026-04-27 07:00",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "흔히 소화가 안 되거나 허리가 아플 때 단순한 피로나 일상에서 쉽게 나타날 수 있는 증상으로 여겨 대수롭지 않게 넘기는 경우가 많다. 그러나 이런 흔한 증상들이",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "흔히 소화가 안 되거나 허리가 아플 때 단순한 피로나 일상에서 쉽게 나타날 수 있는 증상으로 여겨 대수롭지 않게 넘기는 경우가 많다.",
+    "shortsScore": 5,
+    "shortsTitle": "“단순 소화불량인 줄 알았는데…” 의외로 놓치기 쉬운 췌장 이상 징후 5",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61451",
+    "picked": false,
+    "priority": 71
+  },
+  {
     "id": "hidoc-61582",
     "title": "“잠 못 이루는 밤, 원인은 야식?”… 숙면 방해하는 최악의 음식 7가지",
     "source": "하이닥",
@@ -324,26 +362,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61550",
     "picked": false,
     "priority": 71
-  },
-  {
-    "id": "hidoc-61523",
-    "title": "혈압 관리 돕는 저염식의 첫걸음, “국물 줄이고 소금 2g 덜어내세요”",
-    "source": "하이닥",
-    "publishedAt": "2026-04-25 11:30",
-    "category": "public",
-    "tags": [
-      "고혈압",
-      "대중관심"
-    ],
-    "summary": "나트륨 섭취를 줄이는 것이 혈압 관리의 시작이라는 사실은 널리 알려져 있다. 하지만 국물 요리와 절임 반찬에 익숙한 식습관을 하루아침에 바꾸는 것은 결코 쉬운 일",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "나트륨 섭취를 줄이는 것이 혈압 관리의 시작이라는 사실은 널리 알려져 있다.",
-    "shortsScore": 6,
-    "shortsTitle": "혈압 관리 돕는 저염식의 첫걸음, “국물 줄이고 소금 2g 덜어내세요”",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61523",
-    "picked": false,
-    "priority": 72
   },
   {
     "id": "kpanews-532948",
