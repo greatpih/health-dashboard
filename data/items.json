@@ -1,5 +1,25 @@
 [
   {
+    "id": "hidoc-61711",
+    "title": "35만 뇌세포 분석… 기억력 담당하는 ‘해마’ 신경 생성이 치매 좌우한다",
+    "source": "하이닥",
+    "publishedAt": "2026-04-28 21:00",
+    "category": "public",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "성인의 뇌에서도 기억을 담당하는 부위인 해마에서 신경 세포가 계속 만들어지며, 이 과정이 치매(알츠하이머병) 및 인지 능력과 중요한 연관성이 있다는 연구 결과가",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "성인의 뇌에서도 기억을 담당하는 부위인 해마에서 신경 세포가 계속 만들어지며, 이 과정이 치매(알츠하이머병) 및 인지 능력과 중요한 연관성이 있다는 연구 결과가",
+    "shortsScore": 5,
+    "shortsTitle": "35만 뇌세포 분석… 기억력 담당하는 ‘해마’ 신경 생성이 치매 좌우한다",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61711",
+    "picked": false,
+    "priority": 71
+  },
+  {
     "id": "kormedi-2810777",
     "title": "훠궈 먹고 피부 다 벗겨져, 음식 알레르기인 줄 알았는데… 생명 위협하는 '이 질환'이었다?",
     "source": "코메디닷컴",
@@ -190,25 +210,6 @@
     "shortsTitle": "류마티스 관절염, 발병 후 2년이 치료 골든타임… ‘먹는 신약’으로 선택지 넓어졌다",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61572",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61599",
-    "title": "증상 없어도 시작되는 대장암... 예방의 핵심은 ‘정기 대장내시경’",
-    "source": "하이닥",
-    "publishedAt": "2026-04-28 10:30",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "건강은 특별한 증상이 없을 때 오히려 놓치기 쉬운 영역이며, 소화기 건강도 예외가 아닙니다. 특히 대장은 우리 몸에서 가장 긴 소화기관 중 하나임에도, 병변 초기",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "건강은 특별한 증상이 없을 때 오히려 놓치기 쉬운 영역이며, 소화기 건강도 예외가 아닙니다.",
-    "shortsScore": 5,
-    "shortsTitle": "증상 없어도 시작되는 대장암... 예방의 핵심은 ‘정기 대장내시경’",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61599",
     "picked": false,
     "priority": 71
   },
