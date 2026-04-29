@@ -1,5 +1,24 @@
 [
   {
+    "id": "hidoc-61728",
+    "title": "하버드대도 주목한 '코 스프레이'… 호흡기 감염 예방 트렌드 바뀐다",
+    "source": "하이닥",
+    "publishedAt": "2026-04-29 20:00",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "그동안 호흡기 바이러스 감염 예방은 백신 접종을 통해 체내에 전신 면역을 형성하는 데 초점이 맞춰져 왔다. 그러나 최근 글로벌 의료계는 바이러스가 인체에 가장 먼",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "그동안 호흡기 바이러스 감염 예방은 백신 접종을 통해 체내에 전신 면역을 형성하는 데 초점이 맞춰져 왔다.",
+    "shortsScore": 5,
+    "shortsTitle": "하버드대도 주목한 '코 스프레이'… 호흡기 감염 예방 트렌드 바뀐다",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61728",
+    "picked": false,
+    "priority": 71
+  },
+  {
     "id": "hidoc-61754",
     "title": "당뇨병 환자, 손끝 채혈 대신 ‘연속혈당측정’했더니… “약 안 늘려도 혈당 뚝”",
     "source": "하이닥",
@@ -233,26 +252,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61617",
     "picked": false,
     "priority": 71
-  },
-  {
-    "id": "hidoc-61533",
-    "title": "당뇨 환자의 내성발톱… 방치 시 '발가락 괴사' 부를 수도",
-    "source": "하이닥",
-    "publishedAt": "2026-04-29 10:30",
-    "category": "public",
-    "tags": [
-      "당뇨",
-      "대중관심"
-    ],
-    "summary": "발톱이 발가락의 살 사이를 파고들면서 감염을 일으키는 것을 내성발톱 감염이라고 합니다. 내성발톱은 여러 가지 원인에 의해 발생할 수 있습니다. 발톱을 너무 짧게",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "발톱이 발가락의 살 사이를 파고들면서 감염을 일으키는 것을 내성발톱 감염이라고 합니다.",
-    "shortsScore": 6,
-    "shortsTitle": "당뇨 환자의 내성발톱… 방치 시 '발가락 괴사' 부를 수도",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61533",
-    "picked": false,
-    "priority": 72
   },
   {
     "id": "kpanews-533598",
