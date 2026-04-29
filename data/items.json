@@ -1,5 +1,24 @@
 [
   {
+    "id": "kormedi-2811122",
+    "title": "“주름 많고 틀니에 지팡이 짚고”…10세 아이들이 바라본 ‘노화’ 인식 결과 보니",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-29 16:05",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "10세 아이가 바라본 노화는 어떤 모습일까. 어린이들의 시선을 통해 노인과 노화에 대한 인식을 분석한 연구 결과가 나왔다. 튀르키예… The post “주름 많고 틀니에 지팡이 짚고”…10세 아이들이 바라본 ‘노화’ 인식 결과 보니 appeared f...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "“주름 많고 틀니에 지팡이 짚고”…10세 아이들이 바라본 ‘노화’ 인식 결과 보니",
+    "shortsScore": 5,
+    "shortsTitle": "“주름 많고 틀니에 지팡이 짚고”…10세 아이들이 바라본 ‘노화’ 인식 결과 보니",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2811122/",
+    "picked": false,
+    "priority": 75
+  },
+  {
     "id": "hidoc-61601",
     "title": "겨드랑이 멍울과 통증, 단순 살 아닌 '부유방'… 원인과 치료는?",
     "source": "하이닥",
@@ -134,25 +153,6 @@
     "priority": 75
   },
   {
-    "id": "kormedi-2811754",
-    "title": "서울성모병원, 소아 응급환자 조기 예측 AI 모델 개발",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-29 13:31",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "의료 현장에서도 인공지능(AI) 기술이 빠르게 도입되고 있는 가운데 국내 연구팀이 소아 응급환자를 조기에 예측하는 AI 모델을 개발해 주목받고… The post 서울성모병원, 소아 응급환자 조기 예측 AI 모델 개발 appeared first on 코...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "의료 현장에서도 인공지능(AI) 기술이 빠르게 도입되고 있는 가운데 국내 연구팀이 소아 응급환자를 조기에 예측하는 AI 모델을 개발해 주목받고… 서울성모병원, 소...",
-    "shortsScore": 5,
-    "shortsTitle": "서울성모병원, 소아 응급환자 조기 예측 AI 모델 개발",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2811754/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "hidoc-61715",
     "title": "2030 콜레스테롤 이상 주의보… 과도한 '단당류' 피해야",
     "source": "하이닥",
@@ -169,46 +169,6 @@
     "shortsTitle": "2030 콜레스테롤 이상 주의보… 과도한 '단당류' 피해야",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61715",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-337975",
-    "title": "성인 전용 폐렴구균백신 '캡박시브', 종합병원 처방권 진입",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-29 12:09",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "폐렴구균백신 캡박시브가 종합병원 처방권에 진입하고 있다. 관련 업계에 따르면 한국MSD의 성인 전용 21가 단백접합 백신 캡박시브는 서울대병원, 신촌세브란스병원 등 빅5 상급종합병원을 비롯해 강남성심병원, 동국대학교일산병원, 대전선병원, 분당서울대학교...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "폐렴구균백신 캡박시브가 종합병원 처방권에 진입하고 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "성인 전용 폐렴구균백신 '캡박시브', 종합병원 처방권 진입",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/337975",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-338012",
-    "title": "10년 넘긴 상가 임차인, 권리금 못 받는다?…대법 판단은",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-29 12:08",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "상가 임대차 계약이 10년을 넘기면 권리금을 돌려받을 수 없다는 인식이 퍼지면서 상가 임차인들의 분쟁이 속출하고 있다. 계약갱신요구권의 행사 기간이 10년으로 제한돼 있기 때문인데, 이를 근거로 임대인이 권리금 회수까지 거부하는 사례가 늘어난 탓이다....",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "상가 임대차 계약이 10년을 넘기면 권리금을 돌려받을 수 없다는 인식이 퍼지면서 상가 임차인들의 분쟁이 속출하고 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "10년 넘긴 상가 임차인, 권리금 못 받는다?…대법 판단은",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/338012",
     "picked": false,
     "priority": 73
   },
