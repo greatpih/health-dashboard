@@ -1,5 +1,44 @@
 [
   {
+    "id": "dailypharm-338020",
+    "title": "'다잘렉스' 피하주사 제형, 3개 적응증 동시 확대 승인",
+    "source": "데일리팜",
+    "publishedAt": "2026-04-30 11:57",
+    "category": "public",
+    "tags": [
+      "병용금기",
+      "대중관심"
+    ],
+    "summary": "다잘렉스 피하주사 제형의 쓰임새 확대가 활발하다. 관련 업계에 따르면 한국얀센은 지난 24일 식품의약품안전처로부터 다잘렉스SC(다라투무맙)의 3개 적응증에 대한 추가 승인을 획득했다. 구체적인 적응증은 ▲새롭게 진단된 조혈모세포이식이 적합한 다발골수종...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "simpleSummary": "다잘렉스 피하주사 제형의 쓰임새 확대가 활발하다.",
+    "shortsScore": 6,
+    "shortsTitle": "'다잘렉스' 피하주사 제형, 3개 적응증 동시 확대 승인 같이 먹으면 안 될 수 있습니다",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/338020",
+    "picked": false,
+    "priority": 74
+  },
+  {
+    "id": "hidoc-61772",
+    "title": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다",
+    "source": "하이닥",
+    "publishedAt": "2026-04-30 11:30",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "비만이었던 사람이 살을 빼도 면역세포 유전자에 남은 '비만 기억'이 수년간 사라지지 않아 요요 현상을 부른다는 사실이 밝혀졌다. 영국 버밍엄대학교(Universi",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "비만이었던 사람이 살을 빼도 면역세포 유전자에 남은 '비만 기억'이 수년간 사라지지 않아 요요 현상을 부른다는 사실이 밝혀졌다.",
+    "shortsScore": 5,
+    "shortsTitle": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61772",
+    "picked": false,
+    "priority": 71
+  },
+  {
     "id": "kormedi-2812044",
     "title": "“참외씨 먹는 애들, 편부모거나 가난”… 현직 교사 발언, 심각한 이유",
     "source": "코메디닷컴",
@@ -57,25 +96,6 @@
     "priority": 75
   },
   {
-    "id": "dailypharm-338055",
-    "title": "CJ웰케어, '알파CD 원데이 컷' 출시…식이섬유 강화",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-30 10:30",
-    "category": "industry",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "CJ웰케어는 수용성 식이섬유 알파시클로덱스트린을 주원료로 한 분말 스틱 제품 알파CD 원데이 컷을 출시했다고 30일 밝혔다. 이번 제품은 알파시클로덱스트린 2200mg과 난소화성말토덱스트린 412mg을 한 포 3g에 담은 것이 특징이다. 알파시클로덱스...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "CJ웰케어는 수용성 식이섬유 알파시클로덱스트린을 주원료로 한 분말 스틱 제품 알파CD 원데이 컷을 출시했다고 30일 밝혔다.",
-    "shortsScore": 5,
-    "shortsTitle": "CJ웰케어, '알파CD 원데이 컷' 출시…식이섬유 강화",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/338055",
-    "picked": false,
-    "priority": 73
-  },
-  {
     "id": "hidoc-61681",
     "title": "봄 환절기, HPV 예방 위해 면역력 챙기세요",
     "source": "하이닥",
@@ -93,26 +113,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61681",
     "picked": false,
     "priority": 71
-  },
-  {
-    "id": "dailypharm-338052",
-    "title": "동국제약, ‘센시아’ 새 모델 강지영…정맥순환 공감 온에어",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-30 10:17",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "동국제약은 아나운서 강지영을 모델로 기용한 정맥순환개선제 ‘센시아’의 신규 TV-CF를 공개했다. 이번 광고는 장시간 서 있는 직업군이 겪는 다리 피로와 부종 등 정맥순환장애 증상에 대한 공감 형성에 초점을 맞췄다. 강지영 아나운서는 광고에서 “서 있...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "동국제약은 아나운서 강지영을 모델로 기용한 정맥순환개선제 ‘센시아’의 신규 TV-CF를 공개했다.",
-    "shortsScore": 5,
-    "shortsTitle": "동국제약, ‘센시아’ 새 모델 강지영…정맥순환 공감 온에어",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/338052",
-    "picked": false,
-    "priority": 73
   },
   {
     "id": "kormedi-2811981",
@@ -149,44 +149,6 @@
     "shortsTitle": "“암과 비만 예방한다”… 장내미생물 개선하는 ‘이 오일’, 뭐야?",
     "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
     "originalUrl": "https://kormedi.com/2811630/",
-    "picked": false,
-    "priority": 75
-  },
-  {
-    "id": "kormedi-2811967",
-    "title": "젊은층에서 11가지 암 증가 이유 알아봤더니...과학자들이 발견한 첫 번째 단서는 ‘이것’",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-30 09:07",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "주요 분석 결과 영국 젊은이들 사이에서 11가지 암이 점점 더 흔해지고 있는 것으로 나타났다. 우리나라의 젊은 층에서도 암… The post 젊은층에서 11가지 암 증가 이유 알아봤더니...과학자들이 발견한 첫 번째 단서는 ‘이것’ appeared f...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "주요 분석 결과 영국 젊은이들 사이에서 11가지 암이 점점 더 흔해지고 있는 것으로 나타났다.",
-    "shortsScore": 5,
-    "shortsTitle": "젊은층에서 11가지 암 증가 이유 알아봤더니...과학자들이 발견한 첫 번째 단서는 ‘이것’",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2811967/",
-    "picked": false,
-    "priority": 75
-  },
-  {
-    "id": "kormedi-2811687",
-    "title": "“친구들끼리만 일상 공유” Z세대가 선택한 ‘셋로그’, SNS 중독 대안 될까?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-30 08:06",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "비공개 공간에서 친구들끼리만 일상을 공유하는 방식의 소셜미디어(SNS)가 Z세대 등 젊은 세대의 인기를 끌고 있다. 사용시간을 늘리기 위해 설계된… The post “친구들끼리만 일상 공유” Z세대가 선택한 ‘셋로그’, SNS 중독 대안 될까? app...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "비공개 공간에서 친구들끼리만 일상을 공유하는 방식의 소셜미디어(SNS)가 Z세대 등 젊은 세대의 인기를 끌고 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "“친구들끼리만 일상 공유” Z세대가 선택한 ‘셋로그’, SNS 중독 대안 될까?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2811687/",
     "picked": false,
     "priority": 75
   },
@@ -326,26 +288,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61728",
     "picked": false,
     "priority": 71
-  },
-  {
-    "id": "hidoc-61754",
-    "title": "당뇨병 환자, 손끝 채혈 대신 ‘연속혈당측정’했더니… “약 안 늘려도 혈당 뚝”",
-    "source": "하이닥",
-    "publishedAt": "2026-04-29 19:00",
-    "category": "public",
-    "tags": [
-      "당뇨",
-      "대중관심"
-    ],
-    "summary": "연속혈당측정기를 사용한 제2형 당뇨병 환자가 손가락 채혈을 통해 혈당을 재는 기존 방식의 환자보다 혈당 조절이 더 잘 됐다는 연구 결과가 나왔다. 영국 노팅엄대",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "연속혈당측정기를 사용한 제2형 당뇨병 환자가 손가락 채혈을 통해 혈당을 재는 기존 방식의 환자보다",
-    "shortsScore": 6,
-    "shortsTitle": "당뇨병 환자, 손끝 채혈 대신 ‘연속혈당측정’했더니… “약 안 늘려도 혈당 뚝”",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61754",
-    "picked": false,
-    "priority": 72
   },
   {
     "id": "kpanews-533968",
