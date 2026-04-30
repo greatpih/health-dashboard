@@ -1,5 +1,44 @@
 [
   {
+    "id": "kormedi-2811999",
+    "title": "나이 들면 깊은 잠 못 자고 염증까지…“왜 이걸 먹었어?”",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-30 14:01",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "젊을 때는 주위에 소음이 있어도 깊은 잠을 자는 경우가 많다. 하지만 나이가 들면 작은 움직임에도 숙면을 취하기 어렵다.… The post 나이 들면 깊은 잠 못 자고 염증까지…“왜 이걸 먹었어?” appeared first on 코메디닷컴 .",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "젊을 때는 주위에 소음이 있어도 깊은 잠을 자는 경우가 많다.",
+    "shortsScore": 5,
+    "shortsTitle": "나이 들면 깊은 잠 못 자고 염증까지…“왜 이걸 먹었어?”",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2811999/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "kormedi-2811393",
+    "title": "“다이어트 주사 ‘이렇게’ 쓰면 부작용만 커진다”…의사가 꼽은 실수 5가지",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-30 13:06",
+    "category": "public",
+    "tags": [
+      "당뇨",
+      "부작용"
+    ],
+    "summary": "이른바 ‘다이어트 주사’로 불리는 글루카곤 유사 펩타이드-1(이하 GLP-1) 계열 약물은 당초 당뇨병 치료제로 개발됐지만, 식욕 억제와 위 배출… The post “다이어트 주사 ‘이렇게’ 쓰면 부작용만 커진다”…의사가 꼽은 실수 5가지 appear...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "이른바 ‘다이어트 주사’로 불리는 글루카곤 유사 펩타이드-1(이하 GLP-1) 계열 약물은 당초 당뇨병 치료제로 개발됐지만, 식욕 억제와 위 배출… “다이어트 주...",
+    "shortsScore": 7,
+    "shortsTitle": "“다이어트 주사 ‘이렇게’ 쓰면 부작용만 커진다”…의사가 꼽은 실수 5가지",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2811393/",
+    "picked": false,
+    "priority": 77
+  },
+  {
     "id": "kormedi-2811960",
     "title": "술 안 마시는 사람 ‘지방간’엔...포도·석류·호두·베리류가 ‘직방’?",
     "source": "코메디닷컴",
@@ -39,26 +78,6 @@
     "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=534032",
     "picked": true,
     "priority": 73
-  },
-  {
-    "id": "dailypharm-338020",
-    "title": "'다잘렉스' 피하주사 제형, 3개 적응증 동시 확대 승인",
-    "source": "데일리팜",
-    "publishedAt": "2026-04-30 11:57",
-    "category": "public",
-    "tags": [
-      "병용금기",
-      "대중관심"
-    ],
-    "summary": "다잘렉스 피하주사 제형의 쓰임새 확대가 활발하다. 관련 업계에 따르면 한국얀센은 지난 24일 식품의약품안전처로부터 다잘렉스SC(다라투무맙)의 3개 적응증에 대한 추가 승인을 획득했다. 구체적인 적응증은 ▲새롭게 진단된 조혈모세포이식이 적합한 다발골수종...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "다잘렉스 피하주사 제형의 쓰임새 확대가 활발하다.",
-    "shortsScore": 6,
-    "shortsTitle": "'다잘렉스' 피하주사 제형, 3개 적응증 동시 확대 승인 같이 먹으면 안 될 수 있습니다",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/338020",
-    "picked": false,
-    "priority": 74
   },
   {
     "id": "hidoc-61772",
@@ -118,25 +137,6 @@
     "priority": 75
   },
   {
-    "id": "kormedi-2811591",
-    "title": "“냄새 잘 못 맡는 어르신, 신체 기능 떨어졌다는 증거”",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-30 10:50",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "노인들은 냄새를 맡는 기능이 떨어지는 경우가 잦다. 주로 노화로 후각 신경과 수용체가 악화돼 나타나는 증상이다. 코막힘이 심해지는 만성비염·부비동염(축농증) 같은 이비인후과 질환이나… The post “냄새 잘 못 맡는 어르신, 신체 기능 떨어졌다는 ...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "노인들은 냄새를 맡는 기능이 떨어지는 경우가 잦다.",
-    "shortsScore": 5,
-    "shortsTitle": "“냄새 잘 못 맡는 어르신, 신체 기능 떨어졌다는 증거”",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2811591/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "hidoc-61681",
     "title": "봄 환절기, HPV 예방 위해 면역력 챙기세요",
     "source": "하이닥",
@@ -154,25 +154,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61681",
     "picked": false,
     "priority": 71
-  },
-  {
-    "id": "kormedi-2811981",
-    "title": "늘 피곤하고, 자꾸 화가 나고...당뇨 의심되는 뜻밖의 증상",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-30 10:07",
-    "category": "public",
-    "tags": [
-      "당뇨"
-    ],
-    "summary": "우리 몸은 포도당을 에너지로 이용한다. 그 과정에 필요한 게 인슐린이라는 호르몬이다. 그런데 당뇨병에 걸리면, 즉 인슐린 분비가 부족하거나… The post 늘 피곤하고, 자꾸 화가 나고...당뇨 의심되는 뜻밖의 증상 appeared first on ...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "혈당 조절이나 당뇨 관리에 참고할 만한 포인트가 담긴 기사예요.",
-    "shortsScore": 6,
-    "shortsTitle": "늘 피곤하고, 자꾸 화가 나고...당뇨 의심되는 뜻밖의 증상",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2811981/",
-    "picked": false,
-    "priority": 76
   },
   {
     "id": "hidoc-61770",
