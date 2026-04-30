@@ -1,5 +1,46 @@
 [
   {
+    "id": "kormedi-2811960",
+    "title": "술 안 마시는 사람 ‘지방간’엔...포도·석류·호두·베리류가 ‘직방’?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-04-30 13:01",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "포도 석류 호두와 블루베리 딸기 등 베리류에 들어 있는 천연 항산화제 엘라그산(Ellagic acid) 성분이 비알코올성 지방간의 예방과 치료에… The post 술 안 마시는 사람 ‘지방간’엔...포도·석류·호두·베리류가 ‘직방’? appeared ...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "포도 석류 호두와 블루베리 딸기 등 베리류에 들어 있는 천연 항산화제 엘라그산(Ellagic acid) 성분이 비알코올성 지방간의 예방과 치료에… 술 안 마시는 ...",
+    "shortsScore": 5,
+    "shortsTitle": "술 안 마시는 사람 ‘지방간’엔...포도·석류·호두·베리류가 ‘직방’?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2811960/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "kpanews-534032",
+    "title": "감기약·수면제 ‘과다복용 놀이’ 확산…청소년 10대 중독 진료 40%↑",
+    "source": "약사공론",
+    "publishedAt": "2026-04-30 12:02",
+    "category": "public",
+    "tags": [
+      "운전주의",
+      "감기약",
+      "쇼츠유망",
+      "대중관심"
+    ],
+    "summary": "청소년 사이에서 감기약과 수면유도제 등 일반의약품을 과다 복용하는 이른바 ‘OD(Overdose) 문화’가 확산되면서 건강 위험에 대한 경고음이 커지고 있다. 최",
+    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
+    "simpleSummary": "청소년 사이에서 감기약과 수면유도제 등 일반의약품을 과다",
+    "shortsScore": 8,
+    "shortsTitle": "감기약·수면제 ‘과다복용 놀이’ 확산…청소년 10대 중독 진료 40%↑ 꼭 조심해야 하는 이유",
+    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
+    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=534032",
+    "picked": true,
+    "priority": 73
+  },
+  {
     "id": "dailypharm-338020",
     "title": "'다잘렉스' 피하주사 제형, 3개 적응증 동시 확대 승인",
     "source": "데일리팜",
@@ -134,25 +175,6 @@
     "priority": 76
   },
   {
-    "id": "kormedi-2811630",
-    "title": "“암과 비만 예방한다”… 장내미생물 개선하는 ‘이 오일’, 뭐야?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-04-30 09:31",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "요즘 건강관리의 핵심 키워드는 ‘면역력’과 ‘장내미생물’이다. 그렇다면 이 두 가지를 동시에 관리할 수 있는 식품은 없을까? 여러 연구저널에서… The post “암과 비만 예방한다”… 장내미생물 개선하는 ‘이 오일’, 뭐야? appeared firs...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "요즘 건강관리의 핵심 키워드는 ‘면역력’과 ‘장내미생물’이다.",
-    "shortsScore": 5,
-    "shortsTitle": "“암과 비만 예방한다”… 장내미생물 개선하는 ‘이 오일’, 뭐야?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2811630/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "hidoc-61770",
     "title": "폐섬유화 진행 원인 규명... “과잉 면역 반응이 폐 굳힌다”",
     "source": "하이닥",
@@ -210,26 +232,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61618",
     "picked": false,
     "priority": 72
-  },
-  {
-    "id": "kpanews-533997",
-    "title": "복지위까지 '일사천리'…약국 명칭 제한법 속도낸다",
-    "source": "약사공론",
-    "publishedAt": "2026-04-30 05:54",
-    "category": "public",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "물꼬가 트인 약계 관련 입법이 속도를 더하고 있다. '네트워크 약국 금지법'이 국회 본회의를 통과한데 이어 일주일여 만에 '약국 명칭 제한법'도 법안심사소위원회와",
-    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
-    "simpleSummary": "물꼬가 트인 약계 관련 입법이 속도를 더하고 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "복지위까지 '일사천리'…약국 명칭 제한법 속도낸다",
-    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
-    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533997",
-    "picked": false,
-    "priority": 70
   },
   {
     "id": "hidoc-61757",
@@ -326,6 +328,26 @@
     "shortsTitle": "[영상] 역량보다 태도…약국 직원 관리의 핵심 기준은?",
     "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
     "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533598",
+    "picked": false,
+    "priority": 70
+  },
+  {
+    "id": "kpanews-531112",
+    "title": "약국도 예외 없던 ‘깜깜이 관리비’…공개내역 디테일 나왔다",
+    "source": "약사공론",
+    "publishedAt": "2026-03-17 12:02",
+    "category": "public",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "앞으로 약국을 포함한 상가 임차인은 자신이 내는 관리비의 사용 내역을 구체적으로 확인할 수 있게 될 전망이다. 임대료 인상 제한을 피해 관리비를 올리는 방식의 이",
+    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
+    "simpleSummary": "앞으로 약국을 포함한 상가 임차인은 자신이 내는 관리비의 사용 내역을 구체적으로 확인할 수 있게 될 전망이다.",
+    "shortsScore": 5,
+    "shortsTitle": "약국도 예외 없던 ‘깜깜이 관리비’…공개내역 디테일 나왔다",
+    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
+    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=531112",
     "picked": false,
     "priority": 70
   }
