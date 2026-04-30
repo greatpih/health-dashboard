@@ -1,5 +1,26 @@
 [
   {
+    "id": "hidoc-61761",
+    "title": "\"피 안 뽑아도 된다\"… AI, 눈 사진 한 장으로 '당뇨병·고혈압' 선별",
+    "source": "하이닥",
+    "publishedAt": "2026-04-30 20:00",
+    "category": "public",
+    "tags": [
+      "고혈압",
+      "당뇨",
+      "대중관심"
+    ],
+    "summary": "﻿망막(눈 안쪽 신경 조직) 사진 한 장으로 당뇨병·고혈압·고지혈증 등 만성질환 6가지를 동시에 선별할 수 있는 인공지능(AI) 모델이 개발됐다. 중국 ·영국·싱",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "﻿망막(눈 안쪽 신경 조직) 사진 한 장으로 당뇨병·고혈압·고지혈증 등 만성질환 6가지를 동시에 선별할 수 있는 인공지능(AI) 모델이 개발됐다.",
+    "shortsScore": 7,
+    "shortsTitle": "\"피 안 뽑아도 된다\"… AI, 눈 사진 한 장으로 '당뇨병·고혈압' 선별",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61761",
+    "picked": false,
+    "priority": 73
+  },
+  {
     "id": "kormedi-2812058",
     "title": "공복에 컵라면 먹을 때 달걀 추가했더니…몸에 어떤 변화가?",
     "source": "코메디닷컴",
@@ -246,25 +267,6 @@
     "shortsTitle": "폐섬유화 진행 원인 규명... “과잉 면역 반응이 폐 굳힌다”",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61770",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61667",
-    "title": "내과 전문의 추천, 대장암 예방에 도움되는 과일 5가지",
-    "source": "하이닥",
-    "publishedAt": "2026-04-30 07:30",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "대장암은 더 이상 중장년층만의 질병이 아니다. 한국은 이미 OECD 국가 중 대장암 발병률 최상위권에 올라 있으며, 식생활 서구화와 좌식 생활, 늦은 결혼·출산",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "대장암은 더 이상 중장년층만의 질병이 아니다.",
-    "shortsScore": 5,
-    "shortsTitle": "내과 전문의 추천, 대장암 예방에 도움되는 과일 5가지",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61667",
     "picked": false,
     "priority": 71
   },
