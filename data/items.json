@@ -1,5 +1,43 @@
 [
   {
+    "id": "kormedi-2811825",
+    "title": "“만성 통증 환자, 아이처럼 울고 표현해야”… 왜?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-05-02 16:05",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "통증이 장시간 계속되면 고통스런 감각도 차츰 무뎌지기 십상이다. 사실 고통이 덜해진 상태가 아님에도 이를 표현하는 능력이 떨어진 것일… The post “만성 통증 환자, 아이처럼 울고 표현해야”… 왜? appeared first on 코메디닷컴 .",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "통증이 장시간 계속되면 고통스런 감각도 차츰 무뎌지기 십상이다.",
+    "shortsScore": 5,
+    "shortsTitle": "“만성 통증 환자, 아이처럼 울고 표현해야”… 왜?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2811825/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "hidoc-61721",
+    "title": "귀 뒤쪽 통증, ‘안면마비’ 전조증상… 후유증 예방 위해 조기 대응해야",
+    "source": "하이닥",
+    "publishedAt": "2026-05-02 15:30",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "안면마비는 한방에서 흔히 ‘구안와사’로 불리는 질환으로, 말초신경 중 제7번 뇌신경(안면신경)에 문제가 생겨 발생하는 질환입니다. 안면신경의 염증으로 인해 한쪽",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "안면마비는 한방에서 흔히 ‘구안와사’로 불리는 질환으로, 말초신경 중 제7번 뇌신경(안면신경)에 문제가 생겨 발생하는 질환입니다.",
+    "shortsScore": 5,
+    "shortsTitle": "귀 뒤쪽 통증, ‘안면마비’ 전조증상… 후유증 예방 위해 조기 대응해야",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61721",
+    "picked": false,
+    "priority": 71
+  },
+  {
     "id": "kormedi-2812248",
     "title": "“구급차 좀 불러줘요” 이수지, ‘유치원 교사’ 연기 화제… 왜?",
     "source": "코메디닷컴",
@@ -247,26 +285,6 @@
     "shortsTitle": "노화 탓하며 방치 흔한 50대 탈모, 치료법은?.. “모발 생장 환경 만들어야”",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61672",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61763",
-    "title": "\"나이 들어 근육 빠지는 이유 찾았다\"… ‘근감소증’ 핵심 유전자 4종 규명",
-    "source": "하이닥",
-    "publishedAt": "2026-05-01 11:30",
-    "category": "public",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "노년기 삶의 질을 크게 위협하는 질환인 근감소증의 발병 원인과 함께, 질병을 조기에 예측할 수 있는 핵심 유전자들이 새롭게 발견됐다는 연구 결과가 나왔다. 한림대",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "노년기 삶의 질을 크게 위협하는 질환인 근감소증의 발병 원인과 함께, 질병을 조기에 예측할 수 있는 핵심 유전자들이 새롭게 발견됐다는 연구 결과가 나왔다.",
-    "shortsScore": 5,
-    "shortsTitle": "\"나이 들어 근육 빠지는 이유 찾았다\"… ‘근감소증’ 핵심 유전자 4종 규명",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61763",
     "picked": false,
     "priority": 71
   },
