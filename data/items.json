@@ -1,5 +1,25 @@
 [
   {
+    "id": "dailypharm-338112",
+    "title": "화성 병점 예일약국, 공공심야약국 지정 운영",
+    "source": "데일리팜",
+    "publishedAt": "2026-05-03 21:06",
+    "category": "industry",
+    "tags": [
+      "건강상식",
+      "대중관심"
+    ],
+    "summary": "경기 화성시 병점구에 첫 공공 심야약국이 문을 열었다. 3일 화성시에 따르면 병점구보건소는 공공 심야약국으로 예일야국을 지정하고 지난 1일부터 운영에 들어갔다. 공공 심야약국은 평일과 주말, 공휴일 심야시간대(밤 10시부터 새벽 1시까지)에 시민들이 ...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "simpleSummary": "경기 화성시 병점구에 첫 공공 심야약국이 문을 열었다.",
+    "shortsScore": 5,
+    "shortsTitle": "화성 병점 예일약국, 공공심야약국 지정 운영",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/338112",
+    "picked": false,
+    "priority": 73
+  },
+  {
     "id": "kormedi-2812001",
     "title": "60대 男, 손발톱 갑자기 부서지고 떨어져 나가… '이 병' 감염 때문이었다",
     "source": "코메디닷컴",
@@ -188,26 +208,6 @@
     "originalUrl": "https://kormedi.com/2812344/",
     "picked": false,
     "priority": 75
-  },
-  {
-    "id": "kormedi-2812017",
-    "title": "자전거 타다 사고, '이것'에 눌리며 탈장까지… \"배에 뚜렷한 고리 모양 위험\"",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-03 13:07",
-    "category": "public",
-    "tags": [
-      "건강상식",
-      "쇼츠유망"
-    ],
-    "summary": "자전거 사고로 핸들이 배에 충격을 가해 장이 거의 절단되는 심각한 부상을 입은 사례가 저널에 공개됐다. 아랍에미리트 라스알카이마 RAK… The post 자전거 타다 사고, '이것'에 눌리며 탈장까지… \"배에 뚜렷한 고리 모양 위험\" appeared ...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "자전거 사고로 핸들이 배에 충격을 가해 장이 거의 절단되는 심각한 부상을 입은 사례가 저널에 공개됐다.",
-    "shortsScore": 6,
-    "shortsTitle": "자전거 타다 사고, '이것'에 눌리며 탈장까지… \"배에 뚜렷한 고리 모양 위험\"",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2812017/",
-    "picked": false,
-    "priority": 76
   },
   {
     "id": "hidoc-61725",
