@@ -1,5 +1,43 @@
 [
   {
+    "id": "kormedi-2812088",
+    "title": "“단어가 기억 안나”… 치매만 걱정했는데 심혈관 질환 전조?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-05-03 16:06",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "고령층에서 나타나는 인지 기능 저하는 치매의 전조로만 여겨지기 쉽다. 하지만 최근 심혈관질환 발생에 수년 앞서서도 인지 기능 저하가… The post “단어가 기억 안나”… 치매만 걱정했는데 심혈관 질환 전조? appeared first on 코메디닷...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "고령층에서 나타나는 인지 기능 저하는 치매의 전조로만 여겨지기 쉽다.",
+    "shortsScore": 5,
+    "shortsTitle": "“단어가 기억 안나”… 치매만 걱정했는데 심혈관 질환 전조?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2812088/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "hidoc-61680",
+    "title": "“허리 아프고 다리 저리면 수술?” 허리디스크 통증 단계별 비수술 치료법",
+    "source": "하이닥",
+    "publishedAt": "2026-05-03 15:30",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "현대인의 고질병이라 불리는 ‘허리디스크(요추추간판탈출증)’ 진단을 받게 되면 수술대에 오르는 상상을 하며 두려움에 떠는 분들이 많습니다. 허리 통증을 넘어 다리까",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "현대인의 고질병이라 불리는 ‘허리디스크(요추추간판탈출증)’ 진단을 받게 되면 수술대에 오르는 상상을 하며 두려움에 떠는 분들이 많습니다.",
+    "shortsScore": 5,
+    "shortsTitle": "“허리 아프고 다리 저리면 수술?” 허리디스크 통증 단계별 비수술 치료법",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61680",
+    "picked": false,
+    "priority": 71
+  },
+  {
     "id": "kormedi-2812344",
     "title": "최강희, 폐지 줍는 근황 ”리어카 꽉 채워도 2000원”…연기 중단 이유 뭐길래?",
     "source": "코메디닷컴",
@@ -154,25 +192,6 @@
     "priority": 72
   },
   {
-    "id": "kormedi-2812733",
-    "title": "뱃살 빼는 과일도 있다는데...어떤 것으로 얼마나 먹어야 할까?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-03 10:07",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "복부 주변에 쌓이는 지방인 뱃살은 골칫거리다. 몸을 망치는 내장 지방의 상징이기도 하고 나잇살을 드러내기도 한다. 단순히 미관상 좋지… The post 뱃살 빼는 과일도 있다는데...어떤 것으로 얼마나 먹어야 할까? appeared first on 코...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "복부 주변에 쌓이는 지방인 뱃살은 골칫거리다.",
-    "shortsScore": 5,
-    "shortsTitle": "뱃살 빼는 과일도 있다는데...어떤 것으로 얼마나 먹어야 할까?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2812733/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "hidoc-61721",
     "title": "귀 뒤쪽 통증, ‘안면마비’ 전조증상… 후유증 예방 위해 조기 대응해야",
     "source": "하이닥",
@@ -285,25 +304,6 @@
     "shortsTitle": "소화제, 물 없을 때 커피와 복용해도 될까... 피해야 할 음식·음료는?",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61673",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61702",
-    "title": "어깨·팔 통증인 줄 알았는데 ‘목디스크’... 탈출 위치별 증상과 관리법은?",
-    "source": "하이닥",
-    "publishedAt": "2026-05-01 15:30",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "목디스크, 즉 경추 추간판 탈출증은 과거에는 노화로 인한 퇴행성 질환으로 여겨졌으나, 최근에는 스마트폰과 컴퓨터의 장시간 사용으로 인해 연령을 불문하고 발생하는",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "목디스크, 즉 경추 추간판 탈출증은 과거에는 노화로 인한 퇴행성 질환으로 여겨졌으나, 최근에는 스마트폰과 컴퓨터의 장시간 사용으로 인해 연령을 불문하고 발생하는",
-    "shortsScore": 5,
-    "shortsTitle": "어깨·팔 통증인 줄 알았는데 ‘목디스크’... 탈출 위치별 증상과 관리법은?",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61702",
     "picked": false,
     "priority": 71
   },
