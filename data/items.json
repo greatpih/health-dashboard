@@ -1,5 +1,82 @@
 [
   {
+    "id": "dailypharm-338174",
+    "title": "뉴욕타임스, 로완 치매 AI '슈퍼브레인' 집중 보도",
+    "source": "데일리팜",
+    "publishedAt": "2026-05-06 11:17",
+    "category": "industry",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "로완의 인공지능(AI) 기반 디지털 치료 프로그램 슈퍼브레인이 미국 유력 매체 The New York Times에 한국 대표 AI 헬스케어 솔루션으로 소개되며 글로벌 주목을 받고 있다. 고령화 사회 속 치매·인지장애 관리 분야에서 AI 기반 디지털 치...",
+    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
+    "simpleSummary": "로완의 인공지능(AI) 기반 디지털 치료 프로그램 슈퍼브레인이 미국 유력 매체 The New York Times에 한국 대표 AI 헬스케어 솔루션으로 소개되며 글...",
+    "shortsScore": 5,
+    "shortsTitle": "뉴욕타임스, 로완 치매 AI '슈퍼브레인' 집중 보도",
+    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
+    "originalUrl": "https://www.dailypharm.com/user/news/338174",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "kormedi-2813214",
+    "title": "57세 정샘물, 갱년기 노화 폭격에도 젊어진 이유? 레드립 대신 ‘이것’ 바꿔, 뭘까?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-05-06 11:06",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "메이크업 아티스트 정샘물이 동안 비결을 공개해 눈길을 끌었다. 최근 방송된 MBC ‘전지적 참견 시점’에서 정샘물을 갱년기로 인한 변화를… The post 57세 정샘물, 갱년기 노화 폭격에도 젊어진 이유? 레드립 대신 ‘이것’ 바꿔, 뭘까? appe...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "메이크업 아티스트 정샘물이 동안 비결을 공개해 눈길을 끌었다.",
+    "shortsScore": 5,
+    "shortsTitle": "57세 정샘물, 갱년기 노화 폭격에도 젊어진 이유? 레드립 대신 ‘이것’ 바꿔, 뭘까?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2813214/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "kormedi-2813366",
+    "title": "“움츠릴수록 더 아프다”…무력감, 만성 통증 더 악화 시킨다",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-05-06 10:45",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "'아무 것도 할 수 없다'는 무력감이 만성 통증을 악화한다는 연구 결과가 나왔다. 영국 워릭대학교 심리학과 니콜 탕 교수팀은… The post “움츠릴수록 더 아프다”…무력감, 만성 통증 더 악화 시킨다 appeared first on 코메디닷컴 .",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "'아무 것도 할 수 없다'는 무력감이 만성 통증을 악화한다는 연구 결과가 나왔다.",
+    "shortsScore": 5,
+    "shortsTitle": "“움츠릴수록 더 아프다”…무력감, 만성 통증 더 악화 시킨다",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2813366/",
+    "picked": false,
+    "priority": 75
+  },
+  {
+    "id": "hidoc-61888",
+    "title": "갑상선 수술 후 회복을 돕는 음식과 주의해야 할 음식",
+    "source": "하이닥",
+    "publishedAt": "2026-05-06 10:30",
+    "category": "public",
+    "tags": [
+      "부작용",
+      "쇼츠유망"
+    ],
+    "summary": "갑상선암이나 결절로 인해 수술을 마친 환자들에게 가장 많이 받는 질문 중 하나는 바로 “이제 무엇을 먹어야 하나요?”입니다. 갑상선은 우리 몸의 에너지 대사를 조",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "갑상선암이나 결절로 인해 수술을 마친 환자들에게 가장 많이 받는 질문 중 하나는 바로 “이제 무엇을 먹어야 하나요?”입니다.",
+    "shortsScore": 7,
+    "shortsTitle": "갑상선 수술 후 회복을 돕는 음식과 주의해야 할 음식",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61888",
+    "picked": false,
+    "priority": 73
+  },
+  {
     "id": "kormedi-2813365",
     "title": "“마늘보다 낫다?” 제철 마늘쫑, 몸에 좋은 ‘이 성분’ 더 많다는데, 뭘까?",
     "source": "코메디닷컴",
@@ -95,25 +172,6 @@
     "priority": 75
   },
   {
-    "id": "kormedi-2812682",
-    "title": "샤넬은 아예 밑창을 없앴다…요즘 유행하는 ‘얇은 신발’, 내 발 건강은?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-06 07:06",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "해외 명품 브랜드 샤넬은 최근 반쪽 밑창을 아예 과감하게 없애버린 파격적인 '반쪽 신발’을 선보이며 폭발적인 관심을 받고 있다.… The post 샤넬은 아예 밑창을 없앴다…요즘 유행하는 ‘얇은 신발’, 내 발 건강은? appeared first on...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "해외 명품 브랜드 샤넬은 최근 반쪽 밑창을 아예 과감하게 없애버린 파격적인 '반쪽 신발’을 선보이며 폭발적인 관심을 받고 있다.… 샤넬은 아예 밑창을 없앴다…요즘...",
-    "shortsScore": 5,
-    "shortsTitle": "샤넬은 아예 밑창을 없앴다…요즘 유행하는 ‘얇은 신발’, 내 발 건강은?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2812682/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "hidoc-61852",
     "title": "“진통제 안 듣는 두통, 주의해야”… 뇌암 위험 신호 5가지",
     "source": "하이닥",
@@ -154,44 +212,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61795",
     "picked": false,
     "priority": 71
-  },
-  {
-    "id": "kormedi-2813232",
-    "title": "“남자친구와 통화하다 사망”…18세女, 발작도 없었는데 ‘이 돌연사’, 뭐길래?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-06 06:09",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "남자친구와 통화하던 중 자신의 방에서 갑작스럽게 숨진 18세 여성의 사연이 전해졌다. 딸을 잃은 아버지는 비슷한 일을 막기 위해… The post “남자친구와 통화하다 사망”…18세女, 발작도 없었는데 ‘이 돌연사’, 뭐길래? appeared firs...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "남자친구와 통화하던 중 자신의 방에서 갑작스럽게 숨진 18세 여성의 사연이 전해졌다.",
-    "shortsScore": 5,
-    "shortsTitle": "“남자친구와 통화하다 사망”…18세女, 발작도 없었는데 ‘이 돌연사’, 뭐길래?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2813232/",
-    "picked": false,
-    "priority": 75
-  },
-  {
-    "id": "kormedi-2813164",
-    "title": "“염증 완화에 탁월” 이영자, 집에서 직접 ‘이것’ 기른다는데…뭘까?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-06 06:03",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "방송인 이영자가 직접 키우는 바질을 공개했다. 최근 이영자는 자신의 유튜브 채널에 근황이 담긴 영상을 게재했다. 영상에서 그는 바질을… The post “염증 완화에 탁월” 이영자, 집에서 직접 ‘이것’ 기른다는데…뭘까? appeared first o...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "방송인 이영자가 직접 키우는 바질을 공개했다.",
-    "shortsScore": 5,
-    "shortsTitle": "“염증 완화에 탁월” 이영자, 집에서 직접 ‘이것’ 기른다는데…뭘까?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2813164/",
-    "picked": false,
-    "priority": 75
   },
   {
     "id": "kpanews-534184",
@@ -307,25 +327,6 @@
     "shortsTitle": "\"충동 조절, 행동하기 전에 잠시 멈추세요\"... '마음챙김' 명상법이란?",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61809",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61734",
-    "title": "심해지는 어깨 통증, 오십견인 줄 알고 방치하다 수술 부르는 ‘이 질환’은?",
-    "source": "하이닥",
-    "publishedAt": "2026-05-05 10:30",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "중장년층에게 어깨 통증이 찾아오면 십중팔구 “나이 들어 생기는 오십견이겠지”라며 대수롭지 않게 넘기는 경우가 많습니다. 물론 오십견도 흔하지만, 파스나 찜질을 하",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "중장년층에게 어깨 통증이 찾아오면 십중팔구 “나이 들어 생기는 오십견이겠지”라며 대수롭지 않게 넘기는 경우가 많습니다.",
-    "shortsScore": 5,
-    "shortsTitle": "심해지는 어깨 통증, 오십견인 줄 알고 방치하다 수술 부르는 ‘이 질환’은?",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61734",
     "picked": false,
     "priority": 71
   },
