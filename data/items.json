@@ -1,5 +1,24 @@
 [
   {
+    "id": "kormedi-2813386",
+    "title": "“매일 커피 3잔+콜라 마셔”…카페인 꼭 먹어야 했던 45세女, ‘이 병’ 때문?",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-05-06 13:11",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "심한 두통과 구토로 9주 동안 집에 머물렀던 40대 여성이 희귀 신경질환 진단을 받은 뒤, 증상을 견디기 위해 카페인에… The post “매일 커피 3잔+콜라 마셔”…카페인 꼭 먹어야 했던 45세女, ‘이 병’ 때문? appeared first on...",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "심한 두통과 구토로 9주 동안 집에 머물렀던 40대 여성이 희귀 신경질환 진단을 받은 뒤, 증상을 견디기 위해 카페인에… “매일 커피 3잔+콜라 마셔”…카페인 꼭...",
+    "shortsScore": 5,
+    "shortsTitle": "“매일 커피 3잔+콜라 마셔”…카페인 꼭 먹어야 했던 45세女, ‘이 병’ 때문?",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2813386/",
+    "picked": false,
+    "priority": 75
+  },
+  {
     "id": "kormedi-2813476",
     "title": "하루 계란 1개 먹었더니, 노인성 치매 위험 27% ‘뚝’",
     "source": "코메디닷컴",
@@ -191,25 +210,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61888",
     "picked": false,
     "priority": 73
-  },
-  {
-    "id": "kormedi-2813365",
-    "title": "“마늘보다 낫다?” 제철 마늘쫑, 몸에 좋은 ‘이 성분’ 더 많다는데, 뭘까?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-06 10:10",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "마늘쫑이 제철을 맞으며 건강 식재료로 다시 주목받고 있다. 흔히 마늘의 부수적인 재료로 생각되지만, 실제로는 영양 구성과 섭취 방식에서… The post “마늘보다 낫다?” 제철 마늘쫑, 몸에 좋은 ‘이 성분’ 더 많다는데, 뭘까? appeared f...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "마늘쫑이 제철을 맞으며 건강 식재료로 다시 주목받고 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "“마늘보다 낫다?” 제철 마늘쫑, 몸에 좋은 ‘이 성분’ 더 많다는데, 뭘까?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2813365/",
-    "picked": false,
-    "priority": 75
   },
   {
     "id": "hidoc-61852",
@@ -406,26 +406,6 @@
     "shortsTitle": "[영상] \"집에서 이게 왜 나와?\" 주사기 100개, 전문약 무더기",
     "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
     "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=533968",
-    "picked": false,
-    "priority": 70
-  },
-  {
-    "id": "kpanews-532957",
-    "title": "창고형약국, 약물 과다복용 '구매 거점' 여전",
-    "source": "약사공론",
-    "publishedAt": "2026-04-15 05:53",
-    "category": "public",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "최근 일부 온라인 커뮤니티와 SNS를 중심으로 창고형약국에서 일반의약품을 여러 개씩 구매할 수 있다는 내용이 지속적으로 공유되고 있어 대책마련이 요구된다. 특정",
-    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
-    "simpleSummary": "최근 일부 온라인 커뮤니티와 SNS를 중심으로 창고형약국에서 일반의약품을 여러 개씩 구매할 수 있다는 내용이 지속적으로 공유되고 있어 대책마련이 요구된다.",
-    "shortsScore": 5,
-    "shortsTitle": "창고형약국, 약물 과다복용 '구매 거점' 여전",
-    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
-    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=532957",
     "picked": false,
     "priority": 70
   }
