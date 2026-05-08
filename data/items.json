@@ -1,23 +1,60 @@
 [
   {
-    "id": "dailypharm-338281",
-    "title": "'의·치·한의·약대생' 축구 맞대결…제2회 메디컬리그 개최",
-    "source": "데일리팜",
-    "publishedAt": "2026-05-08 11:18",
-    "category": "industry",
+    "id": "hidoc-62029",
+    "title": "\"비만치료제 후 '담석'으로 고생\" 후기 많아... 예방에 ‘UDCA’ 도움 될까?",
+    "source": "하이닥",
+    "publishedAt": "2026-05-08 12:00",
+    "category": "public",
     "tags": [
-      "건강상식",
-      "대중관심"
+      "부작용"
     ],
-    "summary": "전국 의과대학, 치과대학, 한의과대학, 약학대학 재학생들이 참여하는 축구대회 제2회 메디컬리그(KMSL)가 충북 제천시 제천축구센터에서 5월 23일부터 24일까지 열린다. 메디컬리그는 예비 의료인들이 스포츠를 통해 친교를 나누고 상호 화합을 도모하기 ...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "전국 의과대학, 치과대학, 한의과대학, 약학대학 재학생들이 참여하는 축구대회 제2회 메디컬리그(KMSL)가 충북 제천시 제천축구센터에서 5월 23일부터 24일까지...",
-    "shortsScore": 5,
-    "shortsTitle": "'의·치·한의·약대생' 축구 맞대결…제2회 메디컬리그 개최",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/338281",
+    "summary": "최근 SNS에 비만 치료제 사용 후 발생한 부작용에 대한 글들이 퍼지고 있다. \"위고비 시작 4개월 만에 응급 담낭 절제술을 받았다\", \"비만치료제 사용 중 해외",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "최근 SNS에 비만 치료제 사용 후 발생한 부작용에 대한 글들이 퍼지고 있다.",
+    "shortsScore": 6,
+    "shortsTitle": "\"비만치료제 후 '담석'으로 고생\" 후기 많아... 예방에 ‘UDCA’ 도움 될까?",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62029",
     "picked": false,
-    "priority": 73
+    "priority": 72
+  },
+  {
+    "id": "kpanews-534431",
+    "title": "“우울증 약, 중간에 끊으면 왜 안되나”",
+    "source": "약사공론",
+    "publishedAt": "2026-05-08 12:00",
+    "category": "public",
+    "tags": [
+      "운전주의"
+    ],
+    "summary": "우울증은 단순한 기분 저하가 아니라 치료가 필요한 질환이다. 우울감과 무기력, 불안, 수면장애 등이 반복되면 일상생활과 사회적 기능까지 영향을 받을 수 있어 적절",
+    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
+    "simpleSummary": "우울증은 단순한 기분 저하가 아니라 치료가 필요한 질환이다.",
+    "shortsScore": 6,
+    "shortsTitle": "“우울증 약, 중간에 끊으면 왜 안되나” 꼭 조심해야 하는 이유",
+    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
+    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=534431",
+    "picked": false,
+    "priority": 71
+  },
+  {
+    "id": "hidoc-62006",
+    "title": "세계 난소암의 날… \"초기엔 증상 거의 없다\", 매년 산부인과 검진 받아야",
+    "source": "하이닥",
+    "publishedAt": "2026-05-08 11:30",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "5월 8일은 어버이날이기도 하지만, 여성 암 중 가장 치명적인 사망률을 기록하는 ‘세계 난소암의 날’이기도 하다. 난소는 골반 깊숙한 곳에 위치해, 이곳에서 암이",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "5월 8일은 어버이날이기도 하지만, 여성 암 중 가장 치명적인 사망률을 기록하는 ‘세계 난소암의 날’이기도 하다.",
+    "shortsScore": 5,
+    "shortsTitle": "세계 난소암의 날… \"초기엔 증상 거의 없다\", 매년 산부인과 검진 받아야",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62006",
+    "picked": false,
+    "priority": 71
   },
   {
     "id": "kormedi-2813538",
@@ -97,45 +134,6 @@
     "priority": 75
   },
   {
-    "id": "dailypharm-338258",
-    "title": "세무법인 센트릭-법무법인 두현, 플랫폼 '도와줘 상속' 출시",
-    "source": "데일리팜",
-    "publishedAt": "2026-05-08 10:00",
-    "category": "industry",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "세무법인 센트릭(CEO 한승희·안만식)과 법무법인 두현(대표 변호사 김수경)이 납세자의 경제적 부담은 줄이고 전문성은 대폭 강화한 비대면 상속 종합 플랫폼 ‘도와줘 상속’을 공식 출시했다고 8일 밝혔다. 최근 자산 가치 상승으로 인해 상속세 신고 인원...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "세무법인 센트릭(CEO 한승희·안만식)과 법무법인 두현(대표 변호사 김수경)이 납세자의 경제적 부담은 줄이고 전문성은 대폭 강화한 비대면 상속 종합 플랫폼 ‘도와...",
-    "shortsScore": 5,
-    "shortsTitle": "세무법인 센트릭-법무법인 두현, 플랫폼 '도와줘 상속' 출시",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/338258",
-    "picked": false,
-    "priority": 73
-  },
-  {
-    "id": "dailypharm-338271",
-    "title": "의료계, 한의사 PDRN·PN 주사 정조준…불법시술 규정",
-    "source": "데일리팜",
-    "publishedAt": "2026-05-08 09:47",
-    "category": "industry",
-    "tags": [
-      "건강상식",
-      "쇼츠유망"
-    ],
-    "summary": "대한의사협회 한방대책특별위원회(이하 한특위)를 비롯한 피부·성형 관련 주요 학회 및 의사단체들이 한의계의 불법 피부미용 의료시술 확산에 대해 강력한 경고 메시지를 던졌다. 대한의사협회 한특위, 대한성형외과학회, 대한피부과학회, 대한성형외과의사회, 대한...",
-    "whyItMatters": "약 제도, 처방, 복약 흐름 중 대중화 가능한 이슈인지 빠르게 확인할 수 있다.",
-    "simpleSummary": "대한의사협회 한방대책특별위원회(이하 한특위)를 비롯한 피부·성형 관련 주요 학회 및 의사단체들이 한의계의 불법 피부미용 의료시술 확산에 대해 강력한 경고 메시지를...",
-    "shortsScore": 6,
-    "shortsTitle": "의료계, 한의사 PDRN·PN 주사 정조준…불법시술 규정",
-    "cautionNote": "업계 기사라도 실제 복약 의미가 있는지 추가 선별 필요",
-    "originalUrl": "https://www.dailypharm.com/user/news/338271",
-    "picked": false,
-    "priority": 74
-  },
-  {
     "id": "kormedi-2814211",
     "title": "풋고추 몇 개만 먹어도...비타민C 적당하게 섭취하면 좋은 이유",
     "source": "코메디닷컴",
@@ -153,25 +151,6 @@
     "originalUrl": "https://kormedi.com/2814211/",
     "picked": false,
     "priority": 75
-  },
-  {
-    "id": "kpanews-534418",
-    "title": "대웅제약, 비만치료제 포트폴리오 완성 '월 1회' 제형 시동",
-    "source": "약사공론",
-    "publishedAt": "2026-05-08 08:52",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "대웅제약(대표 박성수·이창재)은 8일 티온랩테라퓨틱스(대표 임덕수)와 비만 치료용 세마글루타이드 월 1회 장기지속형 주사제의 글로벌 개발 및 상업화를 위한 전략적",
-    "whyItMatters": "약국 현장과 의약품 수급, 복약 이슈 중 대중화 가능한 주제를 빠르게 추릴 수 있다.",
-    "simpleSummary": "대웅제약(대표 박성수·이창재)은 8일 티온랩테라퓨틱스(대표 임덕수)와 비만 치료용 세마글루타이드 월 1회 장기지속형 주사제의 글로벌 개발 및 상업화를 위한 전략적",
-    "shortsScore": 5,
-    "shortsTitle": "대웅제약, 비만치료제 포트폴리오 완성 '월 1회' 제형 시동",
-    "cautionNote": "업계 현장 기사이므로 대중용 설명으로 재가공 필요할 수 있음",
-    "originalUrl": "https://www.kpanews.co.kr/news/articleView.html?idxno=534418",
-    "picked": false,
-    "priority": 70
   },
   {
     "id": "kormedi-2813701",
@@ -210,25 +189,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61948",
     "picked": false,
     "priority": 71
-  },
-  {
-    "id": "kormedi-2814090",
-    "title": "내가 삼킨 음식을 먹는 또 다른 생명체, 마이크로바이옴",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-08 07:36",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "우리는 음식을 너무 쉽게 받아들인다. 하루 세 번, 혹은 그 이상 음식은 반복되는 일상 속 익숙함이 되어버렸고, 그… The post 내가 삼킨 음식을 먹는 또 다른 생명체, 마이크로바이옴 appeared first on 코메디닷컴 .",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "내가 삼킨 음식을 먹는 또 다른 생명체, 마이크로바이옴",
-    "shortsScore": 5,
-    "shortsTitle": "내가 삼킨 음식을 먹는 또 다른 생명체, 마이크로바이옴",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2814090/",
-    "picked": false,
-    "priority": 75
   },
   {
     "id": "kpanews-534386",
@@ -308,44 +268,6 @@
     "shortsTitle": "“아프기 시작할 때가 진통제 ‘골든타임’”... 생리통, 선제적 대응이 통증 완화의 지름길",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61950",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61984",
-    "title": "피로·예민함 반복된다면... 일상 속 저강도 스트레스 유발 요인 8가지",
-    "source": "하이닥",
-    "publishedAt": "2026-05-07 19:30",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "촉박한 마감일, 중요한 발표, 직장 내 갈등처럼 누가 봐도 명확한 스트레스 요인이 있는 반면, 인식조차 못 한 채 지나치는 스트레스 요인도 있다. 덥거나 추운 실",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "촉박한 마감일, 중요한 발표, 직장 내 갈등처럼 누가 봐도 명확한 스트레스 요인이 있는 반면, 인식조차 못 한 채 지나치는 스트레스 요인도 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "피로·예민함 반복된다면... 일상 속 저강도 스트레스 유발 요인 8가지",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61984",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61946",
-    "title": "“뻑뻑하면 안구건조증, 가렵다면 결막염”··· 헷갈리는 봄철 안질환 구별법",
-    "source": "하이닥",
-    "publishedAt": "2026-05-07 19:00",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "따뜻한 날씨 덕에 야외 활동이 늘어나는 봄, 우리의 눈에는 그 어느 때보다 괴로운 계절일 수 있다. 미세먼지와 황사, 꽃가루, 건조한 대기가 눈 건강을 위협하기",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "따뜻한 날씨 덕에 야외 활동이 늘어나는 봄, 우리의 눈에는 그 어느 때보다",
-    "shortsScore": 5,
-    "shortsTitle": "“뻑뻑하면 안구건조증, 가렵다면 결막염”··· 헷갈리는 봄철 안질환 구별법",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61946",
     "picked": false,
     "priority": 71
   },
