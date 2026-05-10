@@ -1,5 +1,44 @@
 [
   {
+    "id": "hidoc-62088",
+    "title": "“자주 깨서 다시 잠들기 힘들어요”… 약사가 짚은 불면 원인과 관리법",
+    "source": "하이닥",
+    "publishedAt": "2026-05-10 18:30",
+    "category": "public",
+    "tags": [
+      "운전주의",
+      "대중관심"
+    ],
+    "summary": "최근 “자긴 자는데 개운하지 않다”, “자주 깨서 다시 잠들기 힘들다” 등 수면의 질 저하를 호소하는 이들이 늘고 있다. 불면은 밤을 완전히 새우는 상태만을 뜻하",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "최근 “자긴 자는데 개운하지 않다”, “자주 깨서 다시 잠들기 힘들다” 등 수면의 질 저하를 호소하는 이들이 늘고 있다.",
+    "shortsScore": 6,
+    "shortsTitle": "“자주 깨서 다시 잠들기 힘들어요”… 약사가 짚은 불면 원인과 관리법 꼭 조심해야 하는 이유",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62088",
+    "picked": false,
+    "priority": 72
+  },
+  {
+    "id": "hidoc-62021",
+    "title": "\"빨리 잊어라는 옛말\"… 이별의 흔적, 억지로 지울 필요 없어",
+    "source": "하이닥",
+    "publishedAt": "2026-05-10 18:00",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "소중한 이를 떠나보낸 뒤 슬픔에 빠진 사람에게 \"남은 흔적을 모두 지워야만 하루빨리 상처가 아문다\"고 조언하는 경우가 있다. 이는 상대와의 감정적 연결고리를 완전",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "소중한 이를 떠나보낸 뒤 슬픔에 빠진 사람에게 \"남은 흔적을 모두 지워야만 하루빨리 상처가 아문다\"고 조언하는 경우가 있다.",
+    "shortsScore": 5,
+    "shortsTitle": "\"빨리 잊어라는 옛말\"… 이별의 흔적, 억지로 지울 필요 없어",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62021",
+    "picked": false,
+    "priority": 71
+  },
+  {
     "id": "kormedi-2814797",
     "title": "고혈당+고혈압 “이렇게 위험했나”…꼭 고쳐야 할 ‘이 식습관’은?",
     "source": "코메디닷컴",
@@ -173,25 +212,6 @@
     "priority": 76
   },
   {
-    "id": "kormedi-2814305",
-    "title": "서하얀 “날씬해도 내장지방 많아”...‘이것’ 자주 먹어서 고민이라고?",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-10 12:03",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "가수 임창정의 아내이자 방송인 서하얀(35)이 늘씬하지만 내장지방이 많다고 고백했다. 최근 서하얀은 자신의 소셜미디어에서 팬들의 질문에 답하는 시간을 가졌다.… The post 서하얀 “날씬해도 내장지방 많아”...‘이것’ 자주 먹어서 고민이라고? a...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "가수 임창정의 아내이자 방송인 서하얀(35)이 늘씬하지만 내장지방이 많다고 고백했다.",
-    "shortsScore": 5,
-    "shortsTitle": "서하얀 “날씬해도 내장지방 많아”...‘이것’ 자주 먹어서 고민이라고?",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2814305/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "hidoc-62004",
     "title": "\"팝콘, 혈당 폭탄인 줄 알았는데?\"··· 의외로 당 관리에 도움 되는 이유 3",
     "source": "하이닥",
@@ -265,44 +285,6 @@
     "shortsTitle": "매일 ‘아보카도+달걀’ 먹었더니…몸에 나타나는 6가지 긍정적 변화",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61975",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-62043",
-    "title": "\"작은 상처도 흉터 될 수 있다\"… 여드름·화상·찰과상 올바른 관리법은?",
-    "source": "하이닥",
-    "publishedAt": "2026-05-09 18:00",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "﻿일상생활 중 피부에 상처가 생기는 일은 흔하다. 사춘기와 성인기를 가리지 않고 발생하는 여드름부터, 발열기기 사용, 요리 중 가벼운 화상까지 원인도 다양하다.",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "﻿일상생활 중 피부에 상처가 생기는 일은 흔하다.",
-    "shortsScore": 5,
-    "shortsTitle": "\"작은 상처도 흉터 될 수 있다\"… 여드름·화상·찰과상 올바른 관리법은?",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62043",
-    "picked": false,
-    "priority": 71
-  },
-  {
-    "id": "hidoc-61811",
-    "title": "“발목 삐끗했을 때 파스만?”… 급성 발목 염좌, 응급 대처와 치료법",
-    "source": "하이닥",
-    "publishedAt": "2026-05-09 15:30",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "길을 걷다 턱에 걸리거나 운동 중 착지를 잘못해 발목이 심하게 꺾이는 사고는 일상에서 흔하게 발생합니다. 이렇게 발목 관절을 지탱하는 인대가 비정상적으로 늘어나거",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "“발목 삐끗했을 때 파스만?”… 급성 발목 염좌, 응급 대처와 치료법",
-    "shortsScore": 5,
-    "shortsTitle": "“발목 삐끗했을 때 파스만?”… 급성 발목 염좌, 응급 대처와 치료법",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=61811",
     "picked": false,
     "priority": 71
   },
