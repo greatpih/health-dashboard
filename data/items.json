@@ -1,5 +1,45 @@
 [
   {
+    "id": "hidoc-62550",
+    "title": "“적게 먹고 많이 움직여도 잠 못 잔다”… 여성 수면 부족, 원인은 ‘에너지 불균형’",
+    "source": "하이닥",
+    "publishedAt": "2026-05-20 11:30",
+    "category": "public",
+    "tags": [
+      "운전주의",
+      "쇼츠유망",
+      "대중관심"
+    ],
+    "summary": "하루에 먹은 칼로리와 신체 활동으로 소비한 칼로리 간의 균형을 잘 맞추면 여성의 수면 부족 위험을 낮출 수 있다는 연구 결과가 나왔다. 서울대 의대 및 보라매병원",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "하루에 먹은 칼로리와 신체 활동으로 소비한 칼로리 간의 균형을 잘 맞추면 여성의 수면 부족 위험을 낮출 수 있다는 연구 결과가 나왔다.",
+    "shortsScore": 7,
+    "shortsTitle": "“적게 먹고 많이 움직여도 잠 못 잔다”… 여성 수면 부족, 원인은 ‘에너지 불균형’ 꼭 조심해야 하는 이유",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62550",
+    "picked": false,
+    "priority": 73
+  },
+  {
+    "id": "kormedi-2817776",
+    "title": "아이진, 한타바이러스 백신 국산화 추진",
+    "source": "코메디닷컴",
+    "publishedAt": "2026-05-20 11:23",
+    "category": "public",
+    "tags": [
+      "건강상식"
+    ],
+    "summary": "국산 mRNA 백신 플랫폼 개발사인 아이진이 글로벌 보건 위협으로 부각된 한타바이러스 대응 mRNA 예방백신 개발에 본격 착수한다. 아이진은… The post 아이진, 한타바이러스 백신 국산화 추진 appeared first on 코메디닷컴 .",
+    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
+    "simpleSummary": "국산 mRNA 백신 플랫폼 개발사인 아이진이 글로벌 보건 위협으로 부각된 한타바이러스 대응 mRNA 예방백신 개발에 본격 착수한다.",
+    "shortsScore": 5,
+    "shortsTitle": "아이진, 한타바이러스 백신 국산화 추진",
+    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
+    "originalUrl": "https://kormedi.com/2817776/",
+    "picked": false,
+    "priority": 75
+  },
+  {
     "id": "kormedi-2817415",
     "title": "\"많이 먹는데 살 안 찌는 이유?\"… 20kg 감량 성해은, '이것' 미친 듯이 한다 고백",
     "source": "코메디닷컴",
@@ -155,25 +195,6 @@
     "priority": 76
   },
   {
-    "id": "kormedi-2817662",
-    "title": "“뱃살 나잇살 다 빠졌죠”… ‘22kg 감량’ 50대 주부, 요요 없는 비결",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-20 09:21",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "다이어트 앞에는 ‘독한’이라는 수식어가 붙는다. 운동과 식단, 생활 습관까지 고치는 힘든 과정을 버티고 이겨내야 하기 때문이다. 여성들은 출산… The post “뱃살 나잇살 다 빠졌죠”… ‘22kg 감량’ 50대 주부, 요요 없는 비결 appeare...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "다이어트 앞에는 ‘독한’이라는 수식어가 붙는다.",
-    "shortsScore": 5,
-    "shortsTitle": "“뱃살 나잇살 다 빠졌죠”… ‘22kg 감량’ 50대 주부, 요요 없는 비결",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2817662/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "hidoc-62386",
     "title": "봄철 아토피, 완치보다 ‘조절’ 개념으로 관리… “뜨거운 물 샤워 금지, 보습은 필수”",
     "source": "하이닥",
@@ -310,27 +331,6 @@
     "shortsTitle": "포도 vs 사과, 혈당 조절에 더 좋은 과일은?",
     "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62527",
-    "picked": false,
-    "priority": 72
-  },
-  {
-    "id": "hidoc-62516",
-    "title": "알레르기 없는 아이도… 초가공식품 많이 먹으면, 천식 위험 4배 높다",
-    "source": "하이닥",
-    "publishedAt": "2026-05-19 18:00",
-    "category": "public",
-    "tags": [
-      "건강상식",
-      "쇼츠유망",
-      "대중관심"
-    ],
-    "summary": "초가공식품을 많이 먹는 아동은 천식에 걸릴 위험이 높아진다는 연구 결과가 나왔다. 스페인 나바라 대학교 연구팀은 2015년부터 2024년까지 상시 모집한 4~5세",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "초가공식품을 많이 먹는 아동은 천식에 걸릴 위험이 높아진다는 연구 결과가 나왔다.",
-    "shortsScore": 6,
-    "shortsTitle": "알레르기 없는 아이도… 초가공식품 많이 먹으면, 천식 위험 4배 높다",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62516",
     "picked": false,
     "priority": 72
   },
