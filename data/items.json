@@ -1,5 +1,25 @@
 [
   {
+    "id": "hidoc-62616",
+    "title": "“혈당 관리 중, 빵 포기 못한다면?”… 통곡물빵 추천하는 3가지 이유",
+    "source": "하이닥",
+    "publishedAt": "2026-05-21 22:00",
+    "category": "public",
+    "tags": [
+      "당뇨",
+      "대중관심"
+    ],
+    "summary": "당뇨병이 있거나 혈당 수치를 관리하는 경우 탄수화물을 포기해야 한다고 생각하기 쉽다. 그래서 빵을 식단에서 제외하는 경우가 많지만 ‘혈당 관리 중일 때 빵은 무조",
+    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
+    "simpleSummary": "당뇨병이 있거나 혈당 수치를 관리하는 경우 탄수화물을 포기해야 한다고 생각하기 쉽다.",
+    "shortsScore": 6,
+    "shortsTitle": "“혈당 관리 중, 빵 포기 못한다면?”… 통곡물빵 추천하는 3가지 이유",
+    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
+    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62616",
+    "picked": false,
+    "priority": 72
+  },
+  {
     "id": "kormedi-2817840",
     "title": "‘44kg 감량’ 김신영 “물에 ‘이것’ 잔뜩 넣어 먹었다”…결국 지방간 왔다고?",
     "source": "코메디닷컴",
@@ -174,25 +194,6 @@
     "priority": 75
   },
   {
-    "id": "kormedi-2818282",
-    "title": "러닝 열풍 속 달라진 간식 공식… 러너들이 주목한 ‘이 과일’",
-    "source": "코메디닷컴",
-    "publishedAt": "2026-05-21 17:14",
-    "category": "public",
-    "tags": [
-      "건강상식"
-    ],
-    "summary": "러닝이 일시적인 유행을 넘어 꾸준한 인기를 얻고 있다. 달리기는 체지방 감소에 좋고 스트레스도 해소하기 때문이다. 야외 활동이 활발해지는… The post 러닝 열풍 속 달라진 간식 공식… 러너들이 주목한 ‘이 과일’ appeared first on ...",
-    "whyItMatters": "대중 관심이 높은 건강 이슈인지, 복약 주의 포인트가 있는지 빠르게 확인할 가치가 있다.",
-    "simpleSummary": "러닝이 일시적인 유행을 넘어 꾸준한 인기를 얻고 있다.",
-    "shortsScore": 5,
-    "shortsTitle": "러닝 열풍 속 달라진 간식 공식… 러너들이 주목한 ‘이 과일’",
-    "cautionNote": "제목만 보지 말고 원문 맥락까지 확인 필요",
-    "originalUrl": "https://kormedi.com/2818282/",
-    "picked": false,
-    "priority": 75
-  },
-  {
     "id": "dailypharm-338732",
     "title": "삼일제약 일일하우, 음료·어린이 간식 라인업 확대",
     "source": "데일리팜",
@@ -311,26 +312,6 @@
     "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62562",
     "picked": false,
     "priority": 72
-  },
-  {
-    "id": "hidoc-62475",
-    "title": "HPV, 전신 건강 넘어 심혈관 질환까지 영향 미친다",
-    "source": "하이닥",
-    "publishedAt": "2026-05-21 10:30",
-    "category": "public",
-    "tags": [
-      "건강상식",
-      "대중관심"
-    ],
-    "summary": "HPV(인유두종바이러스)는 보통 자궁경부암과 관련된 바이러스로 알려져 있지만, 최근에는 그 영향이 생식기 영역을 넘어 전신 건강에까지 연관되어 있다는 연구들이 늘",
-    "whyItMatters": "질환, 복약, 최신연구 중 대중이 실제로 궁금해할 포인트를 빠르게 추릴 수 있다.",
-    "simpleSummary": "HPV(인유두종바이러스)는 보통 자궁경부암과 관련된 바이러스로 알려져 있지만, 최근에는 그 영향이 생식기 영역을 넘어 전신 건강에까지 연관되어 있다는 연구들이 늘",
-    "shortsScore": 5,
-    "shortsTitle": "HPV, 전신 건강 넘어 심혈관 질환까지 영향 미친다",
-    "cautionNote": "기사형 정보이므로 실제 복용 판단은 별도 확인 필요",
-    "originalUrl": "https://news.hidoc.co.kr/news/articleView.html?idxno=62475",
-    "picked": false,
-    "priority": 71
   },
   {
     "id": "kpanews-535162",
